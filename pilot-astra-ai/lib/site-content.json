@@ -1,0 +1,2518 @@
+{
+  "services": [
+    {
+      "slug": "ai-website",
+      "name": "AI Website Development",
+      "title": "Turn your website into the first working layer of your AI growth system.",
+      "description": "We build conversion-focused websites for Indian businesses that need clear service pages, fast enquiry capture, WhatsApp CTAs, SEO structure, and room to scale into automation.",
+      "definition": "AI Website Development is the building of fast, mobile-friendly, SEO-ready websites designed specifically to capture and convert leads — not just to display information. For Indian industrial, retail, and ecommerce businesses, it means clear service pages, instant WhatsApp and enquiry CTAs, search-ready structure, and the foundation to scale into automation and CRM workflows later.",
+      "problems": [
+        "Visitors cannot quickly understand your offer or next step.",
+        "Enquiries arrive without context, source tracking, or qualification.",
+        "Important services, locations, and products do not have dedicated search-ready pages.",
+        "The website cannot support future landing pages, automation, or CRM flows."
+      ],
+      "includes": [
+        "Responsive website structure with conversion-focused sections.",
+        "Service, about, contact, enquiry, and supporting content pages.",
+        "WhatsApp and contact CTAs placed around high-intent moments.",
+        "SEO-ready page metadata, headings, internal links, and performance basics."
+      ],
+      "bestFit": "Industrial and manufacturing companies; Founder-led B2B service businesses; Retail and ecommerce brands that need a stronger enquiry flow",
+      "delivery": [
+        "Audit current website, offer clarity, target audience, and enquiry path.",
+        "Plan sitemap, service hierarchy, conversion sections, and SEO basics.",
+        "Design and build pages using the existing visual system.",
+        "Connect CTAs, test mobile performance, and prepare handover."
+      ],
+      "cost": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI is designed as a system-first alternative to hiring separate manpower for every growth function. Monthly recurring support is designed to stay lower than equivalent full-time manpower, depending on scope."
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Pilot Astra AI System"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Build the growth engine once, then keep improving it through a focused monthly operating layer."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "One-time setup to build the system"
+              }
+            ],
+            [
+              {
+                "text": "Monthly recurring support after launch"
+              }
+            ],
+            [
+              {
+                "text": "AI website and landing page structure"
+              }
+            ],
+            [
+              {
+                "text": "WhatsApp automation and CRM workflows"
+              }
+            ],
+            [
+              {
+                "text": "Content, SEO/GEO, outreach, reporting, and optional calling"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Manpower-heavy setup"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "Website agency or developer retainers"
+              }
+            ],
+            [
+              {
+                "text": "Sales coordinator and WhatsApp responder"
+              }
+            ],
+            [
+              {
+                "text": "Content team, SEO resource, and SDR support"
+              }
+            ],
+            [
+              {
+                "text": "CRM operator and calling support"
+              }
+            ],
+            [
+              {
+                "text": "Manager oversight to keep every activity moving"
+              }
+            ]
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is AI Website Development?",
+          "answer": "AI Website Development is the building of fast, mobile-friendly, SEO-ready websites designed specifically to capture and convert leads — not just to display information. For Indian industrial, retail, and ecommerce businesses, it means clear service pages, instant WhatsApp and enquiry CTAs, search-ready structure, and the foundation to scale into automation and CRM workflows later."
+        },
+        {
+          "question": "Who is AI Website Development for?",
+          "answer": "Industrial and manufacturing companies; Founder-led B2B service businesses; Retail and ecommerce brands that need a stronger enquiry flow."
+        },
+        {
+          "question": "What does AI Website Development include?",
+          "answer": "Responsive website structure with conversion-focused sections; Service, about, contact, enquiry, and supporting content pages; WhatsApp and contact CTAs placed around high-intent moments; SEO-ready page metadata, headings, internal links, and performance basics."
+        },
+        {
+          "question": "How does Pilot Astra AI deliver AI Website Development?",
+          "answer": "Audit current website, offer clarity, target audience, and enquiry path; Plan sitemap, service hierarchy, conversion sections, and SEO basics; Design and build pages using the existing visual system; Connect CTAs, test mobile performance, and prepare handover."
+        }
+      ],
+      "rates": [
+        12.0,
+        35.0,
+        8.0
+      ],
+      "defaults": [
+        1500.0,
+        2.0,
+        25000.0,
+        45000.0
+      ],
+      "calculatorDisclaimer": "Estimated ROI and added revenue are directional and not guarantees. Actual results depend on traffic quality, offer strength, sales follow-up, pricing, market demand, and implementation quality.",
+      "nextTitle": "Ready to use AI Website Development inside your growth system?",
+      "nextCopy": "Share your current website, enquiry flow, and monthly lead targets. We will map the service to your business and show where the first ROI can come from."
+    },
+    {
+      "slug": "dynamic-landing",
+      "name": "Dynamic Landing Page System",
+      "title": "Launch clean landing pages for every product, service, city, and campaign.",
+      "description": "A reusable landing page system helps your team publish focused pages faster while keeping design, SEO, enquiry capture, and conversion structure consistent.",
+      "definition": "A Dynamic Landing Page System is a reusable framework that lets a business publish focused landing pages for any product, service, category, city, or campaign without rebuilding the website each time. It keeps design, SEO structure, enquiry capture, and conversion sections consistent, so marketing teams can launch a new page the same day instead of waiting on a full site change.",
+      "problems": [
+        "Campaign traffic lands on pages that do not match the visitor’s intent.",
+        "New offers, locations, and services require too much design or developer effort.",
+        "SEO opportunities are missed because specific pages do not exist.",
+        "Landing pages vary in quality, structure, and CTA placement."
+      ],
+      "includes": [
+        "Reusable landing page template with consistent conversion sections.",
+        "Content model for product, service, location, offer, and category pages.",
+        "SEO metadata and internal linking structure for scalable publishing.",
+        "Lead capture and WhatsApp CTAs connected to each page type."
+      ],
+      "bestFit": "Businesses with many products, services, or service locations; Teams running paid campaigns or seasonal offers; Companies that need SEO coverage across many intent pages",
+      "delivery": [
+        "Map page types, intent groups, and content fields.",
+        "Create landing page layout, reusable content blocks, and CTA rules.",
+        "Build initial priority pages and connect lead capture.",
+        "Document the publishing workflow for future pages."
+      ],
+      "cost": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI is designed as a system-first alternative to hiring separate manpower for every growth function. Monthly recurring support is designed to stay lower than equivalent full-time manpower, depending on scope."
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Pilot Astra AI System"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Build the growth engine once, then keep improving it through a focused monthly operating layer."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "One-time setup to build the system"
+              }
+            ],
+            [
+              {
+                "text": "Monthly recurring support after launch"
+              }
+            ],
+            [
+              {
+                "text": "AI website and landing page structure"
+              }
+            ],
+            [
+              {
+                "text": "WhatsApp automation and CRM workflows"
+              }
+            ],
+            [
+              {
+                "text": "Content, SEO/GEO, outreach, reporting, and optional calling"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Manpower-heavy setup"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "Website agency or developer retainers"
+              }
+            ],
+            [
+              {
+                "text": "Sales coordinator and WhatsApp responder"
+              }
+            ],
+            [
+              {
+                "text": "Content team, SEO resource, and SDR support"
+              }
+            ],
+            [
+              {
+                "text": "CRM operator and calling support"
+              }
+            ],
+            [
+              {
+                "text": "Manager oversight to keep every activity moving"
+              }
+            ]
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is Dynamic Landing Page System?",
+          "answer": "A Dynamic Landing Page System is a reusable framework that lets a business publish focused landing pages for any product, service, category, city, or campaign without rebuilding the website each time. It keeps design, SEO structure, enquiry capture, and conversion sections consistent, so marketing teams can launch a new page the same day instead of waiting on a full site change."
+        },
+        {
+          "question": "Who is Dynamic Landing Page System for?",
+          "answer": "Businesses with many products, services, or service locations; Teams running paid campaigns or seasonal offers; Companies that need SEO coverage across many intent pages."
+        },
+        {
+          "question": "What does Dynamic Landing Page System include?",
+          "answer": "Reusable landing page template with consistent conversion sections; Content model for product, service, location, offer, and category pages; SEO metadata and internal linking structure for scalable publishing; Lead capture and WhatsApp CTAs connected to each page type."
+        },
+        {
+          "question": "How does Pilot Astra AI deliver Dynamic Landing Page System?",
+          "answer": "Map page types, intent groups, and content fields; Create landing page layout, reusable content blocks, and CTA rules; Build initial priority pages and connect lead capture; Document the publishing workflow for future pages."
+        }
+      ],
+      "rates": [
+        20.0,
+        28.0,
+        10.0
+      ],
+      "defaults": [
+        2500.0,
+        2.2,
+        18000.0,
+        55000.0
+      ],
+      "calculatorDisclaimer": "Estimated ROI and added revenue are directional and not guarantees. Actual results depend on traffic quality, offer strength, sales follow-up, pricing, market demand, and implementation quality.",
+      "nextTitle": "Ready to use Dynamic Landing Page System inside your growth system?",
+      "nextCopy": "Share your current website, enquiry flow, and monthly lead targets. We will map the service to your business and show where the first ROI can come from."
+    },
+    {
+      "slug": "whatsapp-bot",
+      "name": "AI WhatsApp Bot",
+      "title": "Reply faster, qualify better, and move WhatsApp enquiries into a sales flow.",
+      "description": "The AI WhatsApp bot gives visitors an instant response path, captures lead details, asks the right questions, and routes hot enquiries to your team.",
+      "definition": "An AI WhatsApp Bot is an automated assistant on WhatsApp Business that answers enquiries instantly, qualifies leads, collects requirements, notifies your sales team, and triggers follow-ups — without a human replying to every message. For Indian businesses where most buyers prefer WhatsApp, it ensures no enquiry goes cold and every lead gets a response within minutes, day or night.",
+      "problems": [
+        "Leads ask questions outside working hours and never receive a fast reply.",
+        "Sales teams spend time asking the same qualifying questions again and again.",
+        "Hot enquiries are mixed with low-intent chats and support requests.",
+        "Follow-ups depend on manual reminders."
+      ],
+      "includes": [
+        "WhatsApp enquiry flow with qualification questions.",
+        "Lead tagging, priority routing, and team notification setup.",
+        "FAQ responses for common product, service, price, and callback queries.",
+        "Follow-up triggers and CRM-ready lead data structure."
+      ],
+      "bestFit": "Retail, ecommerce, and local service businesses; B2B companies receiving WhatsApp enquiries; Teams that need faster lead response without adding headcount",
+      "delivery": [
+        "Define enquiry categories, qualification questions, and handoff rules.",
+        "Build WhatsApp flow, response paths, and fallback messages.",
+        "Connect alerts, lead capture, and CRM-compatible data fields.",
+        "Test real enquiry scenarios and train the team on handoff."
+      ],
+      "cost": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI is designed as a system-first alternative to hiring separate manpower for every growth function. Monthly recurring support is designed to stay lower than equivalent full-time manpower, depending on scope."
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Pilot Astra AI System"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Build the growth engine once, then keep improving it through a focused monthly operating layer."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "One-time setup to build the system"
+              }
+            ],
+            [
+              {
+                "text": "Monthly recurring support after launch"
+              }
+            ],
+            [
+              {
+                "text": "AI website and landing page structure"
+              }
+            ],
+            [
+              {
+                "text": "WhatsApp automation and CRM workflows"
+              }
+            ],
+            [
+              {
+                "text": "Content, SEO/GEO, outreach, reporting, and optional calling"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Manpower-heavy setup"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "Website agency or developer retainers"
+              }
+            ],
+            [
+              {
+                "text": "Sales coordinator and WhatsApp responder"
+              }
+            ],
+            [
+              {
+                "text": "Content team, SEO resource, and SDR support"
+              }
+            ],
+            [
+              {
+                "text": "CRM operator and calling support"
+              }
+            ],
+            [
+              {
+                "text": "Manager oversight to keep every activity moving"
+              }
+            ]
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is AI WhatsApp Bot?",
+          "answer": "An AI WhatsApp Bot is an automated assistant on WhatsApp Business that answers enquiries instantly, qualifies leads, collects requirements, notifies your sales team, and triggers follow-ups — without a human replying to every message. For Indian businesses where most buyers prefer WhatsApp, it ensures no enquiry goes cold and every lead gets a response within minutes, day or night."
+        },
+        {
+          "question": "Who is AI WhatsApp Bot for?",
+          "answer": "Retail, ecommerce, and local service businesses; B2B companies receiving WhatsApp enquiries; Teams that need faster lead response without adding headcount."
+        },
+        {
+          "question": "What does AI WhatsApp Bot include?",
+          "answer": "WhatsApp enquiry flow with qualification questions; Lead tagging, priority routing, and team notification setup; FAQ responses for common product, service, price, and callback queries; Follow-up triggers and CRM-ready lead data structure."
+        },
+        {
+          "question": "How does Pilot Astra AI deliver AI WhatsApp Bot?",
+          "answer": "Define enquiry categories, qualification questions, and handoff rules; Build WhatsApp flow, response paths, and fallback messages; Connect alerts, lead capture, and CRM-compatible data fields; Test real enquiry scenarios and train the team on handoff."
+        }
+      ],
+      "rates": [
+        5.0,
+        42.0,
+        16.0
+      ],
+      "defaults": [
+        1200.0,
+        3.0,
+        12000.0,
+        35000.0
+      ],
+      "calculatorDisclaimer": "Estimated ROI and added revenue are directional and not guarantees. Actual results depend on traffic quality, offer strength, sales follow-up, pricing, market demand, and implementation quality.",
+      "nextTitle": "Ready to use AI WhatsApp Bot inside your growth system?",
+      "nextCopy": "Share your current website, enquiry flow, and monthly lead targets. We will map the service to your business and show where the first ROI can come from."
+    },
+    {
+      "slug": "ai-sdr",
+      "name": "AI SDR Outreach",
+      "title": "Build a predictable outbound engine without hiring a full SDR team first.",
+      "description": "AI SDR outreach helps identify prospects, personalize messages, run follow-ups, and track replies so your team can focus on qualified conversations.",
+      "definition": "AI SDR Outreach is an automated sales development system that reaches targeted prospects with personalized emails, runs follow-up sequences, tracks replies, and updates your CRM — doing the repetitive outbound work of a sales development rep at scale. It lets businesses open new pipeline with wholesale buyers, B2B accounts, and bulk customers without manually sending and chasing every message.",
+      "problems": [
+        "Prospecting happens in bursts instead of a daily system.",
+        "Follow-ups are forgotten after the first email or LinkedIn touch.",
+        "Founders do not know which audience, message, or offer is working.",
+        "Sales teams spend too much time on cold list building."
+      ],
+      "includes": [
+        "Target audience and prospect source workflow.",
+        "Personalized outreach sequence with follow-up logic.",
+        "Reply tracking, lead status updates, and CRM handoff.",
+        "Performance review structure for campaigns, replies, and booked calls."
+      ],
+      "bestFit": "B2B manufacturers and industrial suppliers; Agencies, consultants, and B2B service providers; Companies selling high-consideration products or services",
+      "delivery": [
+        "Define ICP, target segments, offer angle, and outreach rules.",
+        "Set up prospecting workflow and message sequences.",
+        "Connect tracking, statuses, reply handling, and CRM updates.",
+        "Review campaign data and refine the audience-message fit."
+      ],
+      "cost": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI is designed as a system-first alternative to hiring separate manpower for every growth function. Monthly recurring support is designed to stay lower than equivalent full-time manpower, depending on scope."
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Pilot Astra AI System"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Build the growth engine once, then keep improving it through a focused monthly operating layer."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "One-time setup to build the system"
+              }
+            ],
+            [
+              {
+                "text": "Monthly recurring support after launch"
+              }
+            ],
+            [
+              {
+                "text": "AI website and landing page structure"
+              }
+            ],
+            [
+              {
+                "text": "WhatsApp automation and CRM workflows"
+              }
+            ],
+            [
+              {
+                "text": "Content, SEO/GEO, outreach, reporting, and optional calling"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Manpower-heavy setup"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "Website agency or developer retainers"
+              }
+            ],
+            [
+              {
+                "text": "Sales coordinator and WhatsApp responder"
+              }
+            ],
+            [
+              {
+                "text": "Content team, SEO resource, and SDR support"
+              }
+            ],
+            [
+              {
+                "text": "CRM operator and calling support"
+              }
+            ],
+            [
+              {
+                "text": "Manager oversight to keep every activity moving"
+              }
+            ]
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is AI SDR Outreach?",
+          "answer": "AI SDR Outreach is an automated sales development system that reaches targeted prospects with personalized emails, runs follow-up sequences, tracks replies, and updates your CRM — doing the repetitive outbound work of a sales development rep at scale. It lets businesses open new pipeline with wholesale buyers, B2B accounts, and bulk customers without manually sending and chasing every message."
+        },
+        {
+          "question": "Who is AI SDR Outreach for?",
+          "answer": "B2B manufacturers and industrial suppliers; Agencies, consultants, and B2B service providers; Companies selling high-consideration products or services."
+        },
+        {
+          "question": "What does AI SDR Outreach include?",
+          "answer": "Target audience and prospect source workflow; Personalized outreach sequence with follow-up logic; Reply tracking, lead status updates, and CRM handoff; Performance review structure for campaigns, replies, and booked calls."
+        },
+        {
+          "question": "How does Pilot Astra AI deliver AI SDR Outreach?",
+          "answer": "Define ICP, target segments, offer angle, and outreach rules; Set up prospecting workflow and message sequences; Connect tracking, statuses, reply handling, and CRM updates; Review campaign data and refine the audience-message fit."
+        }
+      ],
+      "rates": [
+        8.0,
+        50.0,
+        18.0
+      ],
+      "defaults": [
+        600.0,
+        2.5,
+        60000.0,
+        65000.0
+      ],
+      "calculatorDisclaimer": "Estimated ROI and added revenue are directional and not guarantees. Actual results depend on traffic quality, offer strength, sales follow-up, pricing, market demand, and implementation quality.",
+      "nextTitle": "Ready to use AI SDR Outreach inside your growth system?",
+      "nextCopy": "Share your current website, enquiry flow, and monthly lead targets. We will map the service to your business and show where the first ROI can come from."
+    },
+    {
+      "slug": "social-automation",
+      "name": "Social Media Automation",
+      "title": "Create a consistent publishing system without turning your team into a content department.",
+      "description": "We convert your offers, FAQs, products, case points, and founder insights into repeatable platform-ready content workflows.",
+      "definition": "Social Media Automation is a system for creating and publishing consistent content across Facebook, Instagram, LinkedIn, Pinterest, Google Business Profile, Reddit, and video platforms on a reliable schedule. Instead of posting in irregular bursts, businesses keep an always-on presence that builds visibility and feeds enquiries back to their website and WhatsApp.",
+      "problems": [
+        "Content ideas are created from scratch every time.",
+        "Posting stops when the founder or team gets busy.",
+        "Different platforms receive inconsistent messaging.",
+        "Social visibility is not connected to website or enquiry flows."
+      ],
+      "includes": [
+        "Content pillars, prompt library, and monthly publishing workflow.",
+        "Platform-specific post structures for key channels.",
+        "Repurposing flow for FAQs, offers, product education, and testimonials.",
+        "Scheduling and review system for consistent output."
+      ],
+      "bestFit": "Founder-led brands that need consistent visibility; Retail and ecommerce teams with regular offers or products; B2B companies that need educational authority content",
+      "delivery": [
+        "Audit brand voice, offers, products, FAQs, and content sources.",
+        "Define content pillars, platform roles, and approval flow.",
+        "Build prompt workflows, content templates, and publishing calendar.",
+        "Connect content CTAs back to website, WhatsApp, and lead capture."
+      ],
+      "cost": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI is designed as a system-first alternative to hiring separate manpower for every growth function. Monthly recurring support is designed to stay lower than equivalent full-time manpower, depending on scope."
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Pilot Astra AI System"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Build the growth engine once, then keep improving it through a focused monthly operating layer."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "One-time setup to build the system"
+              }
+            ],
+            [
+              {
+                "text": "Monthly recurring support after launch"
+              }
+            ],
+            [
+              {
+                "text": "AI website and landing page structure"
+              }
+            ],
+            [
+              {
+                "text": "WhatsApp automation and CRM workflows"
+              }
+            ],
+            [
+              {
+                "text": "Content, SEO/GEO, outreach, reporting, and optional calling"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Manpower-heavy setup"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "Website agency or developer retainers"
+              }
+            ],
+            [
+              {
+                "text": "Sales coordinator and WhatsApp responder"
+              }
+            ],
+            [
+              {
+                "text": "Content team, SEO resource, and SDR support"
+              }
+            ],
+            [
+              {
+                "text": "CRM operator and calling support"
+              }
+            ],
+            [
+              {
+                "text": "Manager oversight to keep every activity moving"
+              }
+            ]
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is Social Media Automation?",
+          "answer": "Social Media Automation is a system for creating and publishing consistent content across Facebook, Instagram, LinkedIn, Pinterest, Google Business Profile, Reddit, and video platforms on a reliable schedule. Instead of posting in irregular bursts, businesses keep an always-on presence that builds visibility and feeds enquiries back to their website and WhatsApp."
+        },
+        {
+          "question": "Who is Social Media Automation for?",
+          "answer": "Founder-led brands that need consistent visibility; Retail and ecommerce teams with regular offers or products; B2B companies that need educational authority content."
+        },
+        {
+          "question": "What does Social Media Automation include?",
+          "answer": "Content pillars, prompt library, and monthly publishing workflow; Platform-specific post structures for key channels; Repurposing flow for FAQs, offers, product education, and testimonials; Scheduling and review system for consistent output."
+        },
+        {
+          "question": "How does Pilot Astra AI deliver Social Media Automation?",
+          "answer": "Audit brand voice, offers, products, FAQs, and content sources; Define content pillars, platform roles, and approval flow; Build prompt workflows, content templates, and publishing calendar; Connect content CTAs back to website, WhatsApp, and lead capture."
+        }
+      ],
+      "rates": [
+        24.0,
+        16.0,
+        7.0
+      ],
+      "defaults": [
+        1800.0,
+        1.8,
+        10000.0,
+        40000.0
+      ],
+      "calculatorDisclaimer": "Estimated ROI and added revenue are directional and not guarantees. Actual results depend on traffic quality, offer strength, sales follow-up, pricing, market demand, and implementation quality.",
+      "nextTitle": "Ready to use Social Media Automation inside your growth system?",
+      "nextCopy": "Share your current website, enquiry flow, and monthly lead targets. We will map the service to your business and show where the first ROI can come from."
+    },
+    {
+      "slug": "seo-geo",
+      "name": "SEO, GEO & Blog Automation",
+      "title": "Create search visibility across Google, AI answers, blogs, and service intent pages.",
+      "description": "SEO, GEO, and blog automation gives your website a publishing engine built around real buyer questions, internal links, and structured authority.",
+      "definition": "SEO, GEO & Blog Automation is the practice of improving a business’s visibility on both Google and AI search platforms — like AI Overviews, ChatGPT, and Perplexity — through keyword planning, automated blog publishing, internal linking, and search-intent mapping. GEO (Generative Engine Optimization) applies the same SEO fundamentals to AI answers, structuring content so it can be cited directly in generative search.",
+      "problems": [
+        "Your best answers are stuck in sales calls instead of published online.",
+        "Blog topics are chosen randomly instead of by buyer intent.",
+        "Important service and product pages do not support each other with internal links.",
+        "The website is not structured for AI answer engines or long-tail discovery."
+      ],
+      "includes": [
+        "Keyword, question, and intent map for core services or products.",
+        "Blog automation workflow with briefs, outlines, and review rules.",
+        "Internal linking plan across services, blogs, and conversion pages.",
+        "GEO-ready content structure for AI search discoverability."
+      ],
+      "bestFit": "B2B and industrial businesses with high-value expertise; Ecommerce and retail brands with searchable product categories; Companies that want compounding organic visibility",
+      "delivery": [
+        "Map buyer intent, service categories, keywords, and answer topics.",
+        "Plan blog clusters, internal links, and page updates.",
+        "Set up repeatable content creation and review workflow.",
+        "Track traffic, lead quality, and priority page performance."
+      ],
+      "cost": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI is designed as a system-first alternative to hiring separate manpower for every growth function. Monthly recurring support is designed to stay lower than equivalent full-time manpower, depending on scope."
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Pilot Astra AI System"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Build the growth engine once, then keep improving it through a focused monthly operating layer."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "One-time setup to build the system"
+              }
+            ],
+            [
+              {
+                "text": "Monthly recurring support after launch"
+              }
+            ],
+            [
+              {
+                "text": "AI website and landing page structure"
+              }
+            ],
+            [
+              {
+                "text": "WhatsApp automation and CRM workflows"
+              }
+            ],
+            [
+              {
+                "text": "Content, SEO/GEO, outreach, reporting, and optional calling"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Manpower-heavy setup"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "Website agency or developer retainers"
+              }
+            ],
+            [
+              {
+                "text": "Sales coordinator and WhatsApp responder"
+              }
+            ],
+            [
+              {
+                "text": "Content team, SEO resource, and SDR support"
+              }
+            ],
+            [
+              {
+                "text": "CRM operator and calling support"
+              }
+            ],
+            [
+              {
+                "text": "Manager oversight to keep every activity moving"
+              }
+            ]
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is SEO, GEO & Blog Automation?",
+          "answer": "SEO, GEO & Blog Automation is the practice of improving a business’s visibility on both Google and AI search platforms — like AI Overviews, ChatGPT, and Perplexity — through keyword planning, automated blog publishing, internal linking, and search-intent mapping. GEO (Generative Engine Optimization) applies the same SEO fundamentals to AI answers, structuring content so it can be cited directly in generative search."
+        },
+        {
+          "question": "Who is SEO, GEO & Blog Automation for?",
+          "answer": "B2B and industrial businesses with high-value expertise; Ecommerce and retail brands with searchable product categories; Companies that want compounding organic visibility."
+        },
+        {
+          "question": "What does SEO, GEO & Blog Automation include?",
+          "answer": "Keyword, question, and intent map for core services or products; Blog automation workflow with briefs, outlines, and review rules; Internal linking plan across services, blogs, and conversion pages; GEO-ready content structure for AI search discoverability."
+        },
+        {
+          "question": "How does Pilot Astra AI deliver SEO, GEO & Blog Automation?",
+          "answer": "Map buyer intent, service categories, keywords, and answer topics; Plan blog clusters, internal links, and page updates; Set up repeatable content creation and review workflow; Track traffic, lead quality, and priority page performance."
+        }
+      ],
+      "rates": [
+        32.0,
+        14.0,
+        12.0
+      ],
+      "defaults": [
+        3000.0,
+        1.6,
+        22000.0,
+        50000.0
+      ],
+      "calculatorDisclaimer": "Estimated ROI and added revenue are directional and not guarantees. Actual results depend on traffic quality, offer strength, sales follow-up, pricing, market demand, and implementation quality.",
+      "nextTitle": "Ready to use SEO, GEO & Blog Automation inside your growth system?",
+      "nextCopy": "Share your current website, enquiry flow, and monthly lead targets. We will map the service to your business and show where the first ROI can come from."
+    },
+    {
+      "slug": "video-engine",
+      "name": "AI Video Content Engine",
+      "title": "Turn business knowledge into repeatable short-form video content.",
+      "description": "The AI video content engine helps your team create scripts, hooks, formats, and publishing workflows for product education, FAQs, offers, and sales support.",
+      "definition": "An AI Video Content Engine is a repeatable workflow for producing short-form videos — for product education, brand awareness, offer promotion, FAQs, and sales enablement — at a steady pace without a full production team for each clip. It turns existing service and product information into video content that can be published across social platforms and embedded on landing pages.",
+      "problems": [
+        "Video ideas are inconsistent and difficult to approve.",
+        "Product and service knowledge is not converted into usable scripts.",
+        "Sales teams repeat the same explanations without reusable video assets.",
+        "Short-form content does not connect back to lead capture."
+      ],
+      "includes": [
+        "Video topic bank for FAQs, offers, products, and objections.",
+        "Hook, script, caption, and CTA templates.",
+        "Workflow for short-form clips, explainers, and sales enablement videos.",
+        "Publishing structure for social, website, and campaign use."
+      ],
+      "bestFit": "Product-led businesses that need education and demonstration; Retail, ecommerce, and D2C brands with visual offers; B2B teams that need reusable sales explanation assets",
+      "delivery": [
+        "Identify video use cases across awareness, education, offers, and sales.",
+        "Build topic bank, scripts, hooks, and reusable production templates.",
+        "Create publishing and repurposing workflow across platforms.",
+        "Connect video CTAs to website, WhatsApp, and campaign pages."
+      ],
+      "cost": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI is designed as a system-first alternative to hiring separate manpower for every growth function. Monthly recurring support is designed to stay lower than equivalent full-time manpower, depending on scope."
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Pilot Astra AI System"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Build the growth engine once, then keep improving it through a focused monthly operating layer."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "One-time setup to build the system"
+              }
+            ],
+            [
+              {
+                "text": "Monthly recurring support after launch"
+              }
+            ],
+            [
+              {
+                "text": "AI website and landing page structure"
+              }
+            ],
+            [
+              {
+                "text": "WhatsApp automation and CRM workflows"
+              }
+            ],
+            [
+              {
+                "text": "Content, SEO/GEO, outreach, reporting, and optional calling"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Manpower-heavy setup"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "Website agency or developer retainers"
+              }
+            ],
+            [
+              {
+                "text": "Sales coordinator and WhatsApp responder"
+              }
+            ],
+            [
+              {
+                "text": "Content team, SEO resource, and SDR support"
+              }
+            ],
+            [
+              {
+                "text": "CRM operator and calling support"
+              }
+            ],
+            [
+              {
+                "text": "Manager oversight to keep every activity moving"
+              }
+            ]
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is AI Video Content Engine?",
+          "answer": "An AI Video Content Engine is a repeatable workflow for producing short-form videos — for product education, brand awareness, offer promotion, FAQs, and sales enablement — at a steady pace without a full production team for each clip. It turns existing service and product information into video content that can be published across social platforms and embedded on landing pages."
+        },
+        {
+          "question": "Who is AI Video Content Engine for?",
+          "answer": "Product-led businesses that need education and demonstration; Retail, ecommerce, and D2C brands with visual offers; B2B teams that need reusable sales explanation assets."
+        },
+        {
+          "question": "What does AI Video Content Engine include?",
+          "answer": "Video topic bank for FAQs, offers, products, and objections; Hook, script, caption, and CTA templates; Workflow for short-form clips, explainers, and sales enablement videos; Publishing structure for social, website, and campaign use."
+        },
+        {
+          "question": "How does Pilot Astra AI deliver AI Video Content Engine?",
+          "answer": "Identify video use cases across awareness, education, offers, and sales; Build topic bank, scripts, hooks, and reusable production templates; Create publishing and repurposing workflow across platforms; Connect video CTAs to website, WhatsApp, and campaign pages."
+        }
+      ],
+      "rates": [
+        26.0,
+        18.0,
+        10.0
+      ],
+      "defaults": [
+        1600.0,
+        1.8,
+        16000.0,
+        45000.0
+      ],
+      "calculatorDisclaimer": "Estimated ROI and added revenue are directional and not guarantees. Actual results depend on traffic quality, offer strength, sales follow-up, pricing, market demand, and implementation quality.",
+      "nextTitle": "Ready to use AI Video Content Engine inside your growth system?",
+      "nextCopy": "Share your current website, enquiry flow, and monthly lead targets. We will map the service to your business and show where the first ROI can come from."
+    },
+    {
+      "slug": "ai-calling",
+      "name": "AI Calling System",
+      "title": "Capture, qualify, and re-engage leads with structured AI calling workflows.",
+      "description": "AI calling helps your business respond to inbound enquiries, revive old leads, ask qualification questions, and schedule callbacks for the sales team.",
+      "definition": "An AI Calling System uses AI voice agents to handle inbound and outbound phone calls — capturing enquiries, qualifying leads, re-engaging cold prospects, and scheduling callbacks — then handing warm conversations to your sales team. It lets businesses respond to and follow up with leads by phone at scale, in the languages their customers actually speak.",
+      "problems": [
+        "Inbound calls are missed when the team is busy.",
+        "Old enquiries are not followed up consistently.",
+        "Salespeople spend time on basic qualification before real conversations.",
+        "Callback scheduling and lead notes are handled manually."
+      ],
+      "includes": [
+        "Inbound and outbound call flow design.",
+        "Qualification questions, callback scheduling, and handoff rules.",
+        "Lead status updates and notes structure for sales follow-up.",
+        "Testing across common call scenarios and fallback paths."
+      ],
+      "bestFit": "Businesses with frequent phone enquiries; Sales teams with old lead databases; High-consideration services where calls drive conversion",
+      "delivery": [
+        "Map inbound, outbound, reactivation, and callback use cases.",
+        "Create call scripts, qualification logic, and handoff triggers.",
+        "Connect lead notes, statuses, and team notifications.",
+        "Test call quality, fallback cases, and sales team workflow."
+      ],
+      "cost": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI is designed as a system-first alternative to hiring separate manpower for every growth function. Monthly recurring support is designed to stay lower than equivalent full-time manpower, depending on scope."
+            }
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Pilot Astra AI System"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Build the growth engine once, then keep improving it through a focused monthly operating layer."
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "One-time setup to build the system"
+              }
+            ],
+            [
+              {
+                "text": "Monthly recurring support after launch"
+              }
+            ],
+            [
+              {
+                "text": "AI website and landing page structure"
+              }
+            ],
+            [
+              {
+                "text": "WhatsApp automation and CRM workflows"
+              }
+            ],
+            [
+              {
+                "text": "Content, SEO/GEO, outreach, reporting, and optional calling"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "content": [
+            {
+              "text": "Manpower-heavy setup"
+            }
+          ]
+        },
+        {
+          "type": "ul",
+          "items": [
+            [
+              {
+                "text": "Website agency or developer retainers"
+              }
+            ],
+            [
+              {
+                "text": "Sales coordinator and WhatsApp responder"
+              }
+            ],
+            [
+              {
+                "text": "Content team, SEO resource, and SDR support"
+              }
+            ],
+            [
+              {
+                "text": "CRM operator and calling support"
+              }
+            ],
+            [
+              {
+                "text": "Manager oversight to keep every activity moving"
+              }
+            ]
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is AI Calling System?",
+          "answer": "An AI Calling System uses AI voice agents to handle inbound and outbound phone calls — capturing enquiries, qualifying leads, re-engaging cold prospects, and scheduling callbacks — then handing warm conversations to your sales team. It lets businesses respond to and follow up with leads by phone at scale, in the languages their customers actually speak."
+        },
+        {
+          "question": "Who is AI Calling System for?",
+          "answer": "Businesses with frequent phone enquiries; Sales teams with old lead databases; High-consideration services where calls drive conversion."
+        },
+        {
+          "question": "What does AI Calling System include?",
+          "answer": "Inbound and outbound call flow design; Qualification questions, callback scheduling, and handoff rules; Lead status updates and notes structure for sales follow-up; Testing across common call scenarios and fallback paths."
+        },
+        {
+          "question": "How does Pilot Astra AI deliver AI Calling System?",
+          "answer": "Map inbound, outbound, reactivation, and callback use cases; Create call scripts, qualification logic, and handoff triggers; Connect lead notes, statuses, and team notifications; Test call quality, fallback cases, and sales team workflow."
+        }
+      ],
+      "rates": [
+        4.0,
+        45.0,
+        18.0
+      ],
+      "defaults": [
+        900.0,
+        3.5,
+        30000.0,
+        55000.0
+      ],
+      "calculatorDisclaimer": "Estimated ROI and added revenue are directional and not guarantees. Actual results depend on traffic quality, offer strength, sales follow-up, pricing, market demand, and implementation quality.",
+      "nextTitle": "Ready to use AI Calling System inside your growth system?",
+      "nextCopy": "Share your current website, enquiry flow, and monthly lead targets. We will map the service to your business and show where the first ROI can come from."
+    }
+  ],
+  "cases": [
+    {
+      "slug": "industrial-manufacturer-lead-engine",
+      "category": "MANUFACTURING & INDUSTRIAL · MAHARASHTRA, INDIA",
+      "title": "How an industrial manufacturer turned a brochure site into a tracked lead engine",
+      "description": "A mid-sized industrial equipment maker was getting enquiries by phone with no record or follow-up. We rebuilt the website around search-ready product pages and wired every enquiry into a WhatsApp follow-up flow.",
+      "byline": "BY KIRAN KUMAR SUDARSHAN · FOUNDER, PILOT ASTRA AI",
+      "services": [
+        {
+          "title": "AI Website Development",
+          "href": "/services/ai-website"
+        },
+        {
+          "title": "AI WhatsApp Bot",
+          "href": "/services/whatsapp-bot"
+        },
+        {
+          "title": "SEO, GEO & Blog Automation",
+          "href": "/services/seo-geo"
+        }
+      ],
+      "outcomes": "Tracked: Every enquiry now captured with source · <2 min: Automated first response on WhatsApp · 15+: Search-ready product pages published",
+      "sections": [
+        {
+          "title": "Where they were stuck",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "The old website listed products but had no dedicated, search-ready pages for each machine category."
+                  }
+                ],
+                [
+                  {
+                    "text": "Enquiries arrived by phone and were lost when the sales team was busy on the floor."
+                  }
+                ],
+                [
+                  {
+                    "text": "There was no way to see which products or regions generated demand."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What we built",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "Mapped a product and category hierarchy with one search-optimized page per machine line."
+                  }
+                ],
+                [
+                  {
+                    "text": "Placed contextual WhatsApp and enquiry CTAs at every high-intent moment."
+                  }
+                ],
+                [
+                  {
+                    "text": "Connected enquiries into an automated WhatsApp acknowledgement and follow-up sequence."
+                  }
+                ],
+                [
+                  {
+                    "text": "Added structured data and on-page SEO so product pages could rank for buyer queries."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What changed",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Within the first engagement cycle, every enquiry was captured with its source and answered automatically within minutes, and the sales team had, for the first time, a clear view of which product lines and regions drove demand."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "retail-brand-whatsapp-automation",
+      "category": "RETAIL · INDIA (MULTI-CITY)",
+      "title": "Centralising enquiries for a multi-location retail brand with WhatsApp automation",
+      "description": "A retail brand with several outlets was fielding customer questions across scattered phone numbers. We unified enquiry capture and follow-up into one automated WhatsApp system tied to location-aware landing pages.",
+      "byline": "BY KIRAN KUMAR SUDARSHAN · FOUNDER, PILOT ASTRA AI",
+      "services": [
+        {
+          "title": "Dynamic Landing Page System",
+          "href": "/services/dynamic-landing"
+        },
+        {
+          "title": "AI WhatsApp Bot",
+          "href": "/services/whatsapp-bot"
+        },
+        {
+          "title": "Social Media Automation",
+          "href": "/services/social-automation"
+        }
+      ],
+      "outcomes": "1 unified WhatsApp enquiry flow across locations · Same-day landing pages for new offers and stores · Consistent always-on social publishing cadence",
+      "sections": [
+        {
+          "title": "Where they were stuck",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "Customer enquiries were split across multiple store numbers with inconsistent response times."
+                  }
+                ],
+                [
+                  {
+                    "text": "Each new offer or location needed a fresh landing page, which slowed campaigns down."
+                  }
+                ],
+                [
+                  {
+                    "text": "Social posting was irregular and disconnected from enquiry capture."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What we built",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "Built a reusable landing page system for offers, categories, and individual store locations."
+                  }
+                ],
+                [
+                  {
+                    "text": "Routed all enquiries into a single automated WhatsApp flow with qualification."
+                  }
+                ],
+                [
+                  {
+                    "text": "Set up a consistent social publishing cadence that pointed back to landing pages."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What changed",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "The brand moved from fragmented, slow responses to a single automated enquiry flow, and the marketing team could launch a campaign landing page the same day instead of waiting on a full website change."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "d2c-ecommerce-outreach-system",
+      "category": "ECOMMERCE / D2C · INDIA",
+      "title": "Building an outbound and content engine for a growing D2C ecommerce brand",
+      "description": "A D2C brand relied entirely on paid ads with no owned-channel growth. We added AI SDR outreach for B2B/bulk buyers and an automated SEO/blog engine to build organic demand alongside paid.",
+      "byline": "BY KIRAN KUMAR SUDARSHAN · FOUNDER, PILOT ASTRA AI",
+      "services": [
+        {
+          "title": "AI SDR Outreach",
+          "href": "/services/ai-sdr"
+        },
+        {
+          "title": "SEO, GEO & Blog Automation",
+          "href": "/services/seo-geo"
+        },
+        {
+          "title": "AI Video Content Engine",
+          "href": "/services/video-engine"
+        }
+      ],
+      "outcomes": "New outbound channel for bulk and wholesale buyers · Always-on automated SEO and blog publishing · Owned organic demand alongside paid acquisition",
+      "sections": [
+        {
+          "title": "Where they were stuck",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "Growth depended on paid ads with rising costs and no owned-channel pipeline."
+                  }
+                ],
+                [
+                  {
+                    "text": "There was no systematic outreach to wholesale and bulk buyers."
+                  }
+                ],
+                [
+                  {
+                    "text": "Content was sporadic, so the brand earned little organic search visibility."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What we built",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "Set up AI SDR outreach to reach wholesale and bulk-buyer segments at scale."
+                  }
+                ],
+                [
+                  {
+                    "text": "Launched an automated SEO and blog engine targeting buyer and category queries."
+                  }
+                ],
+                [
+                  {
+                    "text": "Produced short-form video content to support social and product pages."
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What changed",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "The brand opened an entirely new outbound channel for wholesale buyers and began compounding organic search visibility, reducing its dependence on paid acquisition over time."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": {
+    "about": {
+      "title": "One growth engine for Indian businesses",
+      "intro": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Pilot Astra AI connects websites, WhatsApp, CRM, content, search, and outreach into practical AI growth systems for Indian businesses."
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "45 working days to launch · 15 website pages included · 900 posts per month capacity · 500 emails per day outreach"
+            }
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Why we exist",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Most Indian businesses don't have a marketing problem — they have a system problem. Enquiries arrive and go cold. Websites look finished but don't move leads anywhere. Follow-ups depend on whoever is free. Content happens in bursts, then stops."
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Pilot Astra AI was built to fix that with one connected engine instead of a pile of disconnected tools. We bring the website, WhatsApp automation, CRM workflow, outreach, content, and calling together so your business captures every lead, follows up automatically, and keeps showing up in search — in English and in the language your customers actually use."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Who we build for",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "Industrial businesses"
+                  }
+                ],
+                [
+                  {
+                    "text": "Manufacturing companies"
+                  }
+                ],
+                [
+                  {
+                    "text": "Retail stores"
+                  }
+                ],
+                [
+                  {
+                    "text": "D2C brands"
+                  }
+                ],
+                [
+                  {
+                    "text": "Ecommerce businesses"
+                  }
+                ],
+                [
+                  {
+                    "text": "B2B service providers"
+                  }
+                ],
+                [
+                  {
+                    "text": "Local businesses"
+                  }
+                ],
+                [
+                  {
+                    "text": "Multi-location businesses"
+                  }
+                ],
+                [
+                  {
+                    "text": "Founder-led companies"
+                  }
+                ],
+                [
+                  {
+                    "text": "Tooling & machinery businesses"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "What the engine includes",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "AI Website Development"
+                  }
+                ],
+                [
+                  {
+                    "text": "Dynamic Landing Page System"
+                  }
+                ],
+                [
+                  {
+                    "text": "AI WhatsApp Bot"
+                  }
+                ],
+                [
+                  {
+                    "text": "AI SDR Outreach"
+                  }
+                ],
+                [
+                  {
+                    "text": "Social Media Automation"
+                  }
+                ],
+                [
+                  {
+                    "text": "SEO, GEO & Blog Automation"
+                  }
+                ],
+                [
+                  {
+                    "text": "AI Video Content Engine"
+                  }
+                ],
+                [
+                  {
+                    "text": "AI Calling System"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Who's behind it",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Kiran Kumar Sudarshan · Founder, Pilot Astra AI"
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Kiran Kumar Sudarshan leads Pilot Astra AI, helping Indian industrial, retail, and ecommerce businesses replace scattered tools with one connected AI growth system — website, WhatsApp automation, outreach, content, and calling working together."
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "LinkedIn",
+                  "href": "https://linkedin.com/company/bharat-ai-vyapari/"
+                },
+                {
+                  "text": " · "
+                },
+                {
+                  "text": "Instagram",
+                  "href": "https://instagram.com/bharataivyapari"
+                },
+                {
+                  "text": " · "
+                },
+                {
+                  "text": "Reddit",
+                  "href": "https://reddit.com/user/bharataivyapari_live"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Let's build your growth system",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Book a strategy call and we'll map the engine for your business — in your industry, in your language."
+                }
+              ]
+            },
+            {
+              "type": "a",
+              "content": [
+                {
+                  "text": "Book a Strategy Call"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "services": {
+      "title": "Service landing pages for every layer of your growth system",
+      "intro": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Choose the service that matches your current bottleneck, then use the ROI calculator on each page to estimate potential revenue upside."
+            }
+          ]
+        },
+        {
+          "type": "ol",
+          "items": [
+            [
+              {
+                "text": "AI Website Development",
+                "href": "/services/ai-website"
+              },
+              {
+                "text": " — Fast, mobile-friendly, SEO-ready websites built for lead generation, product discovery, service enquiries, and conversion."
+              }
+            ],
+            [
+              {
+                "text": "Dynamic Landing Page System",
+                "href": "/services/dynamic-landing"
+              },
+              {
+                "text": " — Create scalable product, service, category, location, or offer-based landing pages without rebuilding your website every time."
+              }
+            ],
+            [
+              {
+                "text": "AI WhatsApp Bot",
+                "href": "/services/whatsapp-bot"
+              },
+              {
+                "text": " — Handle enquiries instantly, qualify leads, collect requirements, notify the sales team, and trigger follow-ups automatically."
+              }
+            ],
+            [
+              {
+                "text": "AI SDR Outreach",
+                "href": "/services/ai-sdr"
+              },
+              {
+                "text": " — Reach targeted prospects through personalized email outreach, automated follow-ups, lead tracking, and CRM updates."
+              }
+            ],
+            [
+              {
+                "text": "Social Media Automation",
+                "href": "/services/social-automation"
+              },
+              {
+                "text": " — Create and publish consistent content across Facebook, Instagram, LinkedIn, Pinterest, Google Business Profile, Reddit, and video platforms."
+              }
+            ],
+            [
+              {
+                "text": "SEO, GEO & Blog Automation",
+                "href": "/services/seo-geo"
+              },
+              {
+                "text": " — Improve visibility on Google and AI search platforms with keyword planning, blog automation, internal linking, and search intent mapping."
+              }
+            ],
+            [
+              {
+                "text": "AI Video Content Engine",
+                "href": "/services/video-engine"
+              },
+              {
+                "text": " — Create short-form video workflows for product education, brand awareness, offer promotion, FAQs, and sales enablement."
+              }
+            ],
+            [
+              {
+                "text": "AI Calling System",
+                "href": "/services/ai-calling"
+              },
+              {
+                "text": " — Add inbound and outbound AI calling to capture enquiries, qualify leads, re-engage prospects, and schedule callbacks."
+              }
+            ]
+          ]
+        }
+      ],
+      "sections": []
+    },
+    "work": {
+      "title": "Growth systems we've built",
+      "intro": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "How we've helped Indian industrial, retail, and ecommerce businesses turn websites and enquiries into structured, automated growth engines."
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "content": [
+            {
+              "text": "MANUFACTURING & INDUSTRIAL"
+            },
+            {
+              "text": "How an industrial manufacturer turned a brochure site into a tracked lead engine"
+            },
+            {
+              "text": "A mid-sized industrial equipment maker was getting enquiries by phone with no record or follow-up. We rebuilt the website around search-ready product pages and wired every enquiry into a WhatsApp follow-up flow."
+            },
+            {
+              "text": "Tracked: Every enquiry now captured with source · <2 min: Automated first response on WhatsApp · 15+: Search-ready product pages published"
+            },
+            {
+              "text": "READ CASE STUDY →",
+              "href": "/work/industrial-manufacturer-lead-engine"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "content": [
+            {
+              "text": "RETAIL"
+            },
+            {
+              "text": "Centralising enquiries for a multi-location retail brand with WhatsApp automation"
+            },
+            {
+              "text": "A retail brand with several outlets was fielding customer questions across scattered phone numbers. We unified enquiry capture and follow-up into one automated WhatsApp system tied to location-aware landing pages."
+            },
+            {
+              "text": "1 unified WhatsApp enquiry flow across locations · Same-day landing pages for new offers and stores · Consistent always-on social publishing cadence"
+            },
+            {
+              "text": "READ CASE STUDY →",
+              "href": "/work/retail-brand-whatsapp-automation"
+            }
+          ]
+        },
+        {
+          "type": "article",
+          "content": [
+            {
+              "text": "ECOMMERCE / D2C"
+            },
+            {
+              "text": "Building an outbound and content engine for a growing D2C ecommerce brand"
+            },
+            {
+              "text": "A D2C brand relied entirely on paid ads with no owned-channel growth. We added AI SDR outreach for B2B/bulk buyers and an automated SEO/blog engine to build organic demand alongside paid."
+            },
+            {
+              "text": "New outbound channel for bulk and wholesale buyers · Always-on automated SEO and blog publishing · Owned organic demand alongside paid acquisition"
+            },
+            {
+              "text": "READ CASE STUDY →",
+              "href": "/work/d2c-ecommerce-outreach-system"
+            }
+          ]
+        }
+      ],
+      "sections": []
+    },
+    "contact": {
+      "title": "Book your AI Growth Strategy Call",
+      "intro": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Drop your details and our team will connect with a personalized solution — designed for your industry, in your language."
+            }
+          ]
+        },
+        {
+          "type": "a",
+          "content": [
+            {
+              "text": "info@bharataivyapari.com"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Call Pilot Astra AI · Chat on WhatsApp"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "30-MINUTE CALL"
+            }
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Choose a time",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "IST · Mon–Sat"
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "October 2026"
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Available dates shown on the source page include 22–24 and 26–31 October. Times shown: 10:00 am, 10:30 am, 11:00 am, 11:30 am, 12:00 pm, 12:30 pm, 1:00 pm, 1:30 pm, 2:00 pm, 2:30 pm, 3:00 pm, 3:30 pm, 4:00 pm, 4:30 pm, 5:00 pm."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy",
+      "intro": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Last updated: June 2025"
+            }
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Information We Collect",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "When you submit our contact form, we collect your name, company name, phone number, email address, website URL, business type, and query details to respond to your enquiry and provide our services."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "How We Use Your Information",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "We use your information to respond to enquiries, schedule strategy calls, provide AI growth audits, and deliver our services. We do not sell your personal information to third parties."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Data Storage & Security",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "We take reasonable measures to protect your information. Data may be stored on secure third-party platforms used for CRM, email, and communication workflows."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Contact",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "For privacy-related questions, contact us at "
+                },
+                {
+                  "text": "info@bharataivyapari.com",
+                  "href": "mailto:info@bharataivyapari.com"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "intro": [
+        {
+          "type": "p",
+          "content": [
+            {
+              "text": "Last updated: June 2025"
+            }
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "title": "Services",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Pilot Astra AI provides AI-powered website development, growth automation, and lead generation systems for businesses. Specific deliverables, timelines, and scope are defined in individual project agreements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Client Obligations",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Clients are responsible for providing timely access, content, approvals, and information as outlined in the project agreement. Delays may extend project timelines."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Third-Party Costs",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Third-party platform costs including hosting, APIs, AI tokens, calling credits, and advertising spend are borne by the client unless explicitly included in the agreement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Limitation of Liability",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Pilot Astra AI is not liable for performance outcomes, third-party platform limitations, or revenue results. We provide systems, automation, strategy, and execution support."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Contact",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "For terms-related questions, contact us at "
+                },
+                {
+                  "text": "info@bharataivyapari.com",
+                  "href": "mailto:info@bharataivyapari.com"
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "disclaimer": {
+      "title": "Disclaimer & Legal Information",
+      "intro": [],
+      "sections": [
+        {
+          "title": "Client Responsibilities",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "The client shall provide:"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "Domain access"
+                  }
+                ],
+                [
+                  {
+                    "text": "Hosting access or approval for setup"
+                  }
+                ],
+                [
+                  {
+                    "text": "WhatsApp Business/API access"
+                  }
+                ],
+                [
+                  {
+                    "text": "Social media profile access"
+                  }
+                ],
+                [
+                  {
+                    "text": "LinkedIn access or posting approval process"
+                  }
+                ],
+                [
+                  {
+                    "text": "Product or service details"
+                  }
+                ],
+                [
+                  {
+                    "text": "Pricing details"
+                  }
+                ],
+                [
+                  {
+                    "text": "Images and videos where available"
+                  }
+                ],
+                [
+                  {
+                    "text": "Brand logo and brand assets"
+                  }
+                ],
+                [
+                  {
+                    "text": "Content approvals"
+                  }
+                ],
+                [
+                  {
+                    "text": "Offer details"
+                  }
+                ],
+                [
+                  {
+                    "text": "Lead database where available"
+                  }
+                ],
+                [
+                  {
+                    "text": "Required third-party platform access"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Any delay in providing required access, content, approval, business information, or decision-making will extend the project timeline accordingly."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Third-Party Costs",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "The following costs are not included unless specifically mentioned:"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "AI token cost"
+                  }
+                ],
+                [
+                  {
+                    "text": "Video generation cost"
+                  }
+                ],
+                [
+                  {
+                    "text": "Image generation cost"
+                  }
+                ],
+                [
+                  {
+                    "text": "Voice generation cost"
+                  }
+                ],
+                [
+                  {
+                    "text": "Calling credits"
+                  }
+                ],
+                [
+                  {
+                    "text": "WhatsApp Business API charges"
+                  }
+                ],
+                [
+                  {
+                    "text": "Email sending platform charges"
+                  }
+                ],
+                [
+                  {
+                    "text": "Vercel hosting cost"
+                  }
+                ],
+                [
+                  {
+                    "text": "Domain cost"
+                  }
+                ],
+                [
+                  {
+                    "text": "Paid plugins"
+                  }
+                ],
+                [
+                  {
+                    "text": "Premium APIs"
+                  }
+                ],
+                [
+                  {
+                    "text": "CRM subscription"
+                  }
+                ],
+                [
+                  {
+                    "text": "Apollo subscription"
+                  }
+                ],
+                [
+                  {
+                    "text": "Apify subscription"
+                  }
+                ],
+                [
+                  {
+                    "text": "Proxy/IP charges"
+                  }
+                ],
+                [
+                  {
+                    "text": "Email warm-up tools"
+                  }
+                ],
+                [
+                  {
+                    "text": "SMS charges"
+                  }
+                ],
+                [
+                  {
+                    "text": "Cloud storage charges"
+                  }
+                ],
+                [
+                  {
+                    "text": "Paid stock images/videos/music"
+                  }
+                ],
+                [
+                  {
+                    "text": "Advertising spend"
+                  }
+                ],
+                [
+                  {
+                    "text": "Any other third-party platform charges"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "All such costs will be borne by the client."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Platform Limitations",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Pilot Astra AI will make best efforts to implement the proposed systems. However, final functionality may depend on:"
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "API availability"
+                  }
+                ],
+                [
+                  {
+                    "text": "Platform policy changes"
+                  }
+                ],
+                [
+                  {
+                    "text": "Account approvals"
+                  }
+                ],
+                [
+                  {
+                    "text": "WhatsApp approval"
+                  }
+                ],
+                [
+                  {
+                    "text": "Email deliverability"
+                  }
+                ],
+                [
+                  {
+                    "text": "Calling provider limitations"
+                  }
+                ],
+                [
+                  {
+                    "text": "Social media posting restrictions"
+                  }
+                ],
+                [
+                  {
+                    "text": "AI model limitations"
+                  }
+                ],
+                [
+                  {
+                    "text": "Hosting limitations"
+                  }
+                ],
+                [
+                  {
+                    "text": "Third-party system uptime"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Pilot Astra AI will not be liable for limitations caused by third-party platforms."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Performance Disclaimer",
+          "blocks": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Forecasts, lead estimates, conversion estimates, traffic projections, SEO outcomes, email responses, and sales projections are indicative and not guaranteed."
+                }
+              ]
+            },
+            {
+              "type": "ul",
+              "items": [
+                [
+                  {
+                    "text": "Offer quality"
+                  }
+                ],
+                [
+                  {
+                    "text": "Pricing"
+                  }
+                ],
+                [
+                  {
+                    "text": "Market demand"
+                  }
+                ],
+                [
+                  {
+                    "text": "Seasonality"
+                  }
+                ],
+                [
+                  {
+                    "text": "Database quality"
+                  }
+                ],
+                [
+                  {
+                    "text": "Sales follow-up quality"
+                  }
+                ],
+                [
+                  {
+                    "text": "Brand trust"
+                  }
+                ],
+                [
+                  {
+                    "text": "Website conversion rate"
+                  }
+                ],
+                [
+                  {
+                    "text": "Competition"
+                  }
+                ],
+                [
+                  {
+                    "text": "Ad spend"
+                  }
+                ],
+                [
+                  {
+                    "text": "Content consistency"
+                  }
+                ],
+                [
+                  {
+                    "text": "Client response time"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "text": "Pilot Astra AI provides systems, automation, strategy, and execution support. Final revenue depends on multiple business and market factors."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sourceHashes": {
+    "work-retail-brand-whatsapp-automation.md": "afcc3da8055577ac6695bb8d4361faaad2ab92f5472a56a3fc1835e17301deab",
+    "services-seo-geo.md": "beb925fdce6c12f20ee040176db9f232a7f8516ed96a4af5b9e0111c72609159",
+    "services-ai-website.md": "f5d9d0833298adfb1a59e1e3c2b00498b14e41ade89b180a20b10a902f2193ed",
+    "work.md": "4563cb0eafe2455cfb2867059bb75bf4f5c69e8058e38759ac672b860787af8b",
+    "privacy-policy.md": "c56fd069bcfad6e45196486c96b90590b841fac7b3fc1793c452db605c296365",
+    "services-video-engine.md": "e513684f12eb3a8203861103b7e08f5908275aa3bcd6c025eff301af52e5c2b8",
+    "work-industrial-manufacturer-lead-engine.md": "360293ac0853e9bb99831baad3f809518a06294a8e239e247900f7af76946a2b",
+    "contact.md": "09b788dd964c7aae9649adb79e82b61dafcccad7129b6aebd2b71a49fb4684a7",
+    "services-whatsapp-bot.md": "dcf513ad8ade96b882d297149702bc6514456558915715c1e5cc393bc5743b7e",
+    "services-ai-sdr.md": "104c18fae2e8f061d3bf2cadba9a542ce9a3aacf1fe2735ea2ae59029214facf",
+    "index.md": "0ff50ad9e75054d24b410662b1bdee9d6336fec5a69e4b8160dc536c487eb8d0",
+    "services-dynamic-landing.md": "65dc2ac9491b0d6ff804821a5de3e4b14f6e648e08d82f4999839df49fd1eccb",
+    "terms.md": "8974bf8c077c43afbe10800f716dc24cbcd15e6dc58c1c0f8d0a9437b4136a13",
+    "services.md": "be367b5eaecdd7d4cc908d4153475b3ae80e49e0a54ee1fa560f4905d73d7cd6",
+    "work-d2c-ecommerce-outreach-system.md": "c34180a611efef88053c51968bcbfbf0de0a29321f3d4d7494ec97cd11c49e36",
+    "services-ai-calling.md": "63495806fb33927283c70e84289f37ca29565b460f18e036c7ee0299bf23cf69",
+    "disclaimer.md": "4a4b759a6d85c28c336e6db4a19722ed775e32cd81b0148e1855e5982df2ad9d",
+    "about.md": "75813592a060ed1e7c8f8ad01657546aa5dbfcec748c6c7d820733c1acc38d85",
+    "services-social-automation.md": "e0021a74433d0af1ff72c2b251ed31c2315758693ea9140dda4e7bf4f3c1a36d",
+    "sitemap.md": "d918b25b6e9ce0a4edb11f72ca6a4d48d7d1e7010915b4a68ba8c4501fc659ea"
+  }
+}

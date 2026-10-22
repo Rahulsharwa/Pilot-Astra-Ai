@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "url": "https://static.xx.fbcdn.net/rsrc.php/yf/r/-7pQO6hUGK_.svg",
+    "file": "meta.svg"
+  },
+  "whatsapp": {
+    "url": "https://static.whatsapp.net/rsrc.php/y1/r/FJbTMJqMap7.svg",
+    "file": "whatsapp.svg"
+  },
+  "linkedin": {
+    "url": "https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8",
+    "file": "linkedin.svg"
+  },
+  "hubspot": {
+    "url": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+    "file": "hubspot.png"
+  },
+  "salesforce": {
+    "url": "https://www.salesforce.com/c2/public/app/favicon.ico",
+    "file": "salesforce.ico"
+  },
+  "wordpress": {
+    "url": "https://s.w.org/images/wmark.png",
+    "file": "wordpress.png"
+  },
+  "shopify": {
+    "url": "https://cdn.shopify.com/b/shopify-brochure2-assets/c97c60ca19c64a8b5378d9f9e971f7bd.png",
+    "file": "shopify.png"
+  },
+  "telegram": {
+    "url": "https://telegram.org/img/website_icon.svg?4",
+    "file": "telegram.svg"
+  },
+  "google": {
+    "url": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png",
+    "file": "google.png"
+  },
+  "n8n": {
+    "url": "https://n8n.io/press/",
+    "file": "n8n.svg",
+    "note": "Official inline wordmark in neutral monochrome; original paths and viewBox."
+  }
+}

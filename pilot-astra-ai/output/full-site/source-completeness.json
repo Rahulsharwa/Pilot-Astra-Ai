@@ -1,0 +1,77 @@
+[
+  {
+    "path": "/privacy-policy",
+    "checked": 8,
+    "missing": []
+  },
+  {
+    "path": "/terms",
+    "checked": 10,
+    "missing": []
+  },
+  {
+    "path": "/disclaimer",
+    "checked": 68,
+    "missing": []
+  },
+  {
+    "path": "/about",
+    "checked": 30,
+    "missing": []
+  },
+  {
+    "path": "/services/ai-website",
+    "checked": 39,
+    "missing": []
+  },
+  {
+    "path": "/services/dynamic-landing",
+    "checked": 39,
+    "missing": []
+  },
+  {
+    "path": "/services/whatsapp-bot",
+    "checked": 39,
+    "missing": []
+  },
+  {
+    "path": "/services/ai-sdr",
+    "checked": 39,
+    "missing": []
+  },
+  {
+    "path": "/services/social-automation",
+    "checked": 39,
+    "missing": []
+  },
+  {
+    "path": "/services/seo-geo",
+    "checked": 39,
+    "missing": []
+  },
+  {
+    "path": "/services/video-engine",
+    "checked": 39,
+    "missing": []
+  },
+  {
+    "path": "/services/ai-calling",
+    "checked": 39,
+    "missing": []
+  },
+  {
+    "path": "/work/industrial-manufacturer-lead-engine",
+    "checked": 20,
+    "missing": []
+  },
+  {
+    "path": "/work/retail-brand-whatsapp-automation",
+    "checked": 19,
+    "missing": []
+  },
+  {
+    "path": "/work/d2c-ecommerce-outreach-system",
+    "checked": 19,
+    "missing": []
+  }
+]

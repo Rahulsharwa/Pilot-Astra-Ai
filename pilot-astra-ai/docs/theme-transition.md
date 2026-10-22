@@ -1,0 +1,11 @@
+# Logo and theme transition
+
+The refined logo uses lightweight Pilot lettering, spaced ASTRA AI, and a flat blue orbital ring and four-point star based on the supplied references. Separate transparent assets are in `public/brand/pilot-astra-{light,dark}.{svg,png}`. SVGs retain editable text; the system Arial/Helvetica face is declared. PNGs are 2000×1000 RGBA with verified transparent backgrounds. Regenerate both formats with `node scripts/export-brand-logos.mjs`; it uses the existing sharp dependency.
+
+The existing navbar is retained as a single element, now pinned across the light and dark regions. Logo layers share identical absolute bounds and crossfade using a shared CSS variable. Navigation labels, link destinations, CTA treatment, headline, supporting copy, oversized DREAMFRAME wording and all section arrangements are retained. The navbar logo is replaced with the requested Pilot Astra AI mark; the oversized wordmark's wording is intentionally unchanged under the content-preservation rule.
+
+The existing sequence `measure()` function also updates theme variables. Progress is the same normalized hero scroll measurement used for frame selection. The theme stays white through 70%, then follows smoothstep from 70–100%. At 85% the base surface is gray; at 95% nearly black; at 100% exactly black. Reverse scrolling reverses this mapping. No second loop, scroll listener, package, or React frame state was added. Functional text switches to the contrasting ink at the midpoint rather than blending into the same gray as the surface.
+
+The hero viewport's base surface and its lightweight atmosphere use the same theme variables. The canvas layer fades into black across the theme transition, while drawing, frame indices, decoding, caching, DPR limits and sticky geometry remain intact. All 250 source PNGs still match their original ZIP bytes exactly. Both following section backgrounds are now #000000; navy remains confined to card surfaces and existing accents.
+
+Reduced motion uses a single theme switch as the hero boundary crosses the viewport and keeps frame 1. Mobile and desktop checks confirm no horizontal overflow, correct theme endpoints, exact logo crossfade bounds, persistent navigation and unchanged frame targets. Transparent PNG alpha and dimensions were verified. Screenshots are in `output/theme-preview/`.

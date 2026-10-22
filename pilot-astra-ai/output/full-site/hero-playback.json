@@ -1,0 +1,71 @@
+{
+  "result": {
+    "type": "object",
+    "value": [
+      {
+        "displayed": "1",
+        "expected": 1,
+        "progress": 0,
+        "surface": "rgb(255 255 255)",
+        "target": "1",
+        "theme": "light"
+      },
+      {
+        "displayed": "63",
+        "expected": 63,
+        "progress": 0.25,
+        "surface": "rgb(255 255 255)",
+        "target": "63",
+        "theme": "light"
+      },
+      {
+        "displayed": "126",
+        "expected": 126,
+        "progress": 0.5,
+        "surface": "rgb(255 255 255)",
+        "target": "126",
+        "theme": "light"
+      },
+      {
+        "displayed": "188",
+        "expected": 188,
+        "progress": 0.75,
+        "surface": "rgb(236 236 236)",
+        "target": "188",
+        "theme": "transition"
+      },
+      {
+        "displayed": "250",
+        "expected": 250,
+        "progress": 1,
+        "surface": "rgb(0 0 0)",
+        "target": "250",
+        "theme": "dark"
+      },
+      {
+        "displayed": "126",
+        "expected": 126,
+        "progress": 0.5,
+        "surface": "rgb(255 255 255)",
+        "target": "126",
+        "theme": "light"
+      },
+      {
+        "displayed": "1",
+        "expected": 1,
+        "progress": 0,
+        "surface": "rgb(255 255 255)",
+        "target": "1",
+        "theme": "light"
+      },
+      {
+        "displayed": "250",
+        "expected": 250,
+        "progress": 1,
+        "surface": "rgb(0 0 0)",
+        "target": "250",
+        "theme": "dark"
+      }
+    ]
+  }
+}

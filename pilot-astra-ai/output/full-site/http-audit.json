@@ -1,0 +1,132 @@
+{
+  "result": {
+    "type": "object",
+    "value": [
+      {
+        "path": "/",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/about",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/work",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/contact",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/ai-website",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/dynamic-landing",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/whatsapp-bot",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/ai-sdr",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/social-automation",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/seo-geo",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/video-engine",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/ai-calling",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/work/industrial-manufacturer-lead-engine",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/work/retail-brand-whatsapp-automation",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/work/d2c-ecommerce-outreach-system",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/privacy-policy",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/terms",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/disclaimer",
+        "status": 200,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/services/unknown-service",
+        "status": 404,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/work/unknown-example",
+        "status": 404,
+        "type": "text/html; charset=utf-8"
+      },
+      {
+        "path": "/sitemap.xml",
+        "status": 200,
+        "type": "application/xml; charset=utf-8"
+      },
+      {
+        "path": "/robots.txt",
+        "status": 200,
+        "type": "text/plain; charset=utf-8"
+      },
+      {
+        "path": "/opengraph-image",
+        "status": 200,
+        "type": "image/png"
+      },
+      {
+        "path": "/brand/favicon.svg",
+        "status": 200,
+        "type": "image/svg+xml"
+      }
+    ]
+  }
+}

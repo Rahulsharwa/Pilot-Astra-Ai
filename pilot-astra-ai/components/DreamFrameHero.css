@@ -1,0 +1,128 @@
+.dreamframe-hero {
+  position: relative;
+  isolation: isolate;
+  height: 100vh;
+  height: 100svh;
+  min-height: 540px;
+  color: var(--hero-ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Light atmosphere follows the shared theme surface and leaves the imagery visible. */
+.dreamframe-hero::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(90deg, var(--hero-surface) 0%,
+    rgb(var(--hero-surface-rgb) / .97) 25%,
+    rgb(var(--hero-surface-rgb) / .82) 43%,
+    rgb(var(--hero-surface-rgb) / .2) 65%, transparent 85%);
+}
+
+.dreamframe-nav {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 5;
+  background: linear-gradient(var(--hero-surface), rgb(var(--hero-surface-rgb) / .85) 65%, transparent);
+  display: flex;
+  align-items: center;
+  gap: 7.4vw;
+  padding: 2.7vh 2.4vw;
+  font-size: clamp(12px, 1vw, 16px);
+  font-weight: 400;
+}
+
+.dreamframe-logo { position: relative; display: block; flex: 0 0 110px; height: 44px; margin-right: auto; }
+.dreamframe-logo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.astra-brand-light { opacity: calc(1 - var(--hero-theme)); }
+.astra-brand-dark { opacity: var(--hero-theme); }
+.dreamframe-nav nav { display: flex; align-items: center; gap: 3.2vw; }
+.dreamframe-hero a, .dreamframe-nav a { text-decoration: none; }
+.dreamframe-nav nav a, .dreamframe-logo {
+  color: var(--hero-ink);
+  text-shadow: none;
+}
+.dreamframe-nav a { transition: opacity 180ms ease; }
+.dreamframe-nav a:hover { opacity: .8; }
+.dreamframe-hero a:focus-visible, .dreamframe-nav a:focus-visible { outline: 2px solid #126bff; outline-offset: 6px; }
+.dreamframe-contact {
+  color: #050b18;
+  background: #fff;
+  box-shadow: 0 0 0 1px rgb(5 11 24 / .1);
+  border-radius: 10px;
+  padding: 14px 22px;
+  white-space: nowrap;
+}
+
+.dreamframe-copy { position: absolute; top: 22.7%; left: 5.3%; width: 44%; }
+.dreamframe-copy h1 {
+  margin: 0;
+  font-size: clamp(26px, 3.05vw, 64px);
+  font-weight: 400;
+  line-height: 1.055;
+  letter-spacing: -.05em;
+  color: var(--hero-ink);
+  text-shadow: none;
+}
+.dreamframe-copy h1 span { display: block; }
+.dreamframe-copy h1 span:first-child { text-indent: 6.65vw; }
+.dreamframe-copy p {
+  margin: 6.3vh 0 0 19.7vw;
+  width: max-content;
+  max-width: 100%;
+  font-size: clamp(12px, 1.04vw, 20px);
+  line-height: 1.25;
+  letter-spacing: -.045em;
+  text-shadow: none;
+}
+
+.dreamframe-wordmark {
+  position: absolute;
+  left: 5%;
+  bottom: 10.4%;
+  width: 90%;
+  text-align: center;
+  white-space: nowrap;
+  font-size: 13.35vw;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.055em;
+  color: var(--hero-ink);
+  text-shadow: none;
+  pointer-events: none;
+}
+.dreamframe-audit {
+  position: absolute;
+  right: 5.3%;
+  bottom: 4.5%;
+  padding: 23px 28px;
+  border-radius: 8px;
+  background: #f56818;
+  color: #fff;
+  font-size: clamp(13px, 1vw, 18px);
+  transition: background 180ms ease;
+}
+.dreamframe-audit:hover { background: #e75b0c; }
+
+@media (max-width: 767px) {
+  .dreamframe-hero { min-height: 480px; }
+  .dreamframe-nav { flex-wrap: wrap; gap: 16px; padding: 20px 5vw; }
+  .dreamframe-nav nav { order: 3; width: 100%; justify-content: space-between; gap: 8px; font-size: 11px; }
+  .dreamframe-logo { flex-basis: 80px; height: 32px; }
+  .dreamframe-contact { padding: 10px 14px; border-radius: 8px; }
+  .dreamframe-copy { top: 26%; left: 5%; width: 90%; }
+  .dreamframe-copy h1 { font-size: clamp(23px, 5.65vw, 43px); }
+  .dreamframe-copy h1 span:first-child { text-indent: 0; }
+  .dreamframe-copy p { margin: 30px 0 0 12%; font-size: 12px; }
+  .dreamframe-hero::before {
+    background: linear-gradient(90deg, rgb(var(--hero-surface-rgb) / .98), rgb(var(--hero-surface-rgb) / .85) 55%, rgb(var(--hero-surface-rgb) / .4));
+  }
+  .dreamframe-wordmark { bottom: 19%; }
+  .dreamframe-audit { bottom: 7%; padding: 17px 20px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dreamframe-hero a { transition: none; }
+}

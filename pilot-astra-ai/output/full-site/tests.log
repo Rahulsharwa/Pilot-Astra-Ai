@@ -1,0 +1,52 @@
+TAP version 13
+# Subtest: source content scenario and edited inputs
+ok 1 - source content scenario and edited inputs
+  ---
+  duration_ms: 0.81
+  type: 'test'
+  ...
+# Subtest: outreach rates use total emails, then replies and qualification
+ok 2 - outreach rates use total emails, then replies and qualification
+  ---
+  duration_ms: 0.075959
+  type: 'test'
+  ...
+# Subtest: invalid inputs and unsafe totals never produce misleading forecasts
+ok 3 - invalid inputs and unsafe totals never produce misleading forecasts
+  ---
+  duration_ms: 0.096833
+  type: 'test'
+  ...
+# Subtest: email draft preserves unicode and query characters without injecting headers
+ok 4 - email draft preserves unicode and query characters without injecting headers
+  ---
+  duration_ms: 0.206584
+  type: 'test'
+  ...
+# Subtest: website default scenario preserves source lift denominators
+ok 5 - website default scenario preserves source lift denominators
+  ---
+  duration_ms: 0.386333
+  type: 'test'
+  ...
+# Subtest: all eight sources and changed capacity use the same explicit scenario formula
+ok 6 - all eight sources and changed capacity use the same explicit scenario formula
+  ---
+  duration_ms: 0.176333
+  type: 'test'
+  ...
+# Subtest: invalid values do not produce scenario outputs and effective conversion is capped
+ok 7 - invalid values do not produce scenario outputs and effective conversion is capped
+  ---
+  duration_ms: 0.065708
+  type: 'test'
+  ...
+1..7
+# tests 7
+# suites 0
+# pass 7
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 54.571083

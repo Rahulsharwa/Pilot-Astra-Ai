@@ -1,0 +1,106 @@
+.astra-ecosystem, .astra-services {
+  --astra-space: #000000;
+  --astra-navy: #0b1b35;
+  --astra-blue: #126bff;
+  --astra-cyan: #00d9ff;
+  --astra-white: #f4f8ff;
+  position: relative;
+  background: var(--astra-space);
+  color: var(--astra-white);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.astra-section-inner { width: min(1320px, 90%); margin-inline: auto; }
+.astra-eyebrow { display: flex; align-items: center; gap: 12px; font-size: 10px; letter-spacing: .18em; font-weight: 500; }
+.astra-eyebrow > span { width: 5px; height: 5px; border-radius: 50%; background: var(--astra-cyan); box-shadow: 0 0 12px #00d9ff60; }
+.astra-ecosystem { padding: 100px 0 66px; background: #000000; }
+.astra-ecosystem-heading { text-align: center; }
+.astra-ecosystem-heading .astra-eyebrow { justify-content: center; }
+.astra-ecosystem-heading h2 { margin: 24px 0 16px; font-size: clamp(26px, 3.2vw, 48px); font-weight: 400; letter-spacing: -.045em; line-height: 1.1; }
+.astra-ecosystem-heading h2 span { color: #f4f8ff90; }
+.astra-ecosystem-heading > p:last-child { font-size: 14px; color: #f4f8ff88; line-height: 1.6; }
+.astra-marquees { margin-top: 56px; display: grid; gap: 12px; overflow: hidden; outline-offset: -3px; }
+.astra-marquee { overflow: hidden; mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent); }
+.astra-marquee-track { display: flex; width: max-content; animation: astra-marquee 40s linear infinite; }
+.astra-marquee-1 .astra-marquee-track { animation-direction: reverse; animation-duration: 47s; }
+.astra-logo-group { display: flex; flex: none; min-width: 100vw; justify-content: space-around; gap: 64px; align-items: center; padding: 20px 32px; margin: 0; list-style: none; }
+.astra-logo { display: flex; flex: none; align-items: center; justify-content: center; gap: 12px; width: 170px; height: 44px; font-size: 23px; letter-spacing: -.045em; color: #f4f8ffb0; }
+.astra-logo img { object-fit: contain; flex-shrink: 0; opacity: .8; filter: grayscale(1); transition: filter 250ms, opacity 250ms; }
+.astra-logo:hover img { filter: none; opacity: 1; }
+.astra-logo-wordmark { width: 108px; height: 32px; }
+.astra-logo-icon { width: 32px; height: 32px; }
+.astra-ecosystem-note { margin: 32px auto 0; max-width: 640px; padding: 0 24px; color: #f4f8ff65; text-align: center; font-size: 10px; line-height: 1.7; }
+.astra-marquees:hover .astra-marquee-track, .astra-marquees:focus .astra-marquee-track { animation-play-state: paused; }
+@keyframes astra-marquee { to { transform: translateX(-50%); } }
+
+.astra-services { padding: 95px 0 70px; background: #000000; }
+.astra-services-heading { display: flex; align-items: flex-end; justify-content: space-between; gap: 40px; margin-bottom: 48px; }
+.astra-services h2 { margin: 24px 0 0; font-size: clamp(38px, 5vw, 74px); font-weight: 400; letter-spacing: -.055em; line-height: 1.04; }
+.astra-services h2 span { background: linear-gradient(100deg, #f4f8ff, #126bff); background-clip: text; -webkit-text-fill-color: transparent; }
+.astra-services-heading > p { margin: 0 0 5px; max-width: 350px; color: #f4f8ff88; font-size: 13px; line-height: 1.8; }
+.astra-bento { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 18px; }
+.astra-card { position: relative; isolation: isolate; overflow: hidden; min-width: 0; border: 1px solid #f4f8ff12; border-radius: 24px; padding: 26px; background: linear-gradient(135deg, #0b1b35b0, #050b18b0); box-shadow: inset 0 1px 0 #f4f8ff04; transition: transform 250ms ease, border-color 250ms ease, box-shadow 250ms ease; }
+.astra-card::before { content: ""; position: absolute; z-index: -1; inset: 0; pointer-events: none; background: radial-gradient(ellipse at 70% 25%, #126bff16, transparent 65%); }
+.astra-card:hover { transform: translateY(-4px); border-color: #126bff70; box-shadow: 0 16px 50px #0003, inset 0 1px 0 #00d9ff15; }
+.astra-card-website { grid-column: span 7; }
+.astra-card-sdr { grid-column: span 5; }
+.astra-card-whatsapp, .astra-card-social, .astra-card-seo { grid-column: span 4; }
+.astra-card-landing { grid-column: span 5; }
+.astra-card-video { grid-column: span 3; }
+.astra-card-calling { grid-column: span 4; }
+.astra-card-top { display: flex; align-items: center; gap: 16px; font-size: 9px; letter-spacing: .12em; color: #f4f8ff60; }
+.astra-card-top > span:nth-child(2) { font-size: 8px; }
+.astra-card-top a { display: grid; place-items: center; margin-left: auto; width: 30px; height: 30px; border: 1px solid #f4f8ff18; border-radius: 50%; color: #f4f8ffbd; text-decoration: none; font-size: 16px; }
+.astra-card-top a::after { content: ""; position: absolute; inset: 0; }
+.astra-card-top a:focus-visible { outline: 2px solid #00d9ff; outline-offset: 4px; }
+.astra-card:focus-within { border-color: #00d9ff; }
+.astra-card-copy h3 { margin: 0 0 13px; font-size: clamp(20px, 1.8vw, 28px); font-weight: 400; letter-spacing: -.035em; line-height: 1.15; }
+.astra-card-copy p { margin: 0; max-width: 440px; color: #f4f8ff85; font-size: 12px; line-height: 1.8; }
+.astra-card-website .astra-card-copy h3, .astra-card-sdr .astra-card-copy h3 { font-size: clamp(24px, 2.5vw, 36px); }
+.astra-card-website .astra-card-copy { max-width: 440px; }
+.astra-visual { position: relative; height: 185px; margin: 16px 0 24px; pointer-events: none; }
+.astra-card-website .astra-visual, .astra-card-sdr .astra-visual { height: 250px; }
+.astra-network { display: grid; place-items: center; }
+.astra-network svg { position: absolute; inset: 0; width: 100%; height: 100%; fill: none; stroke: #00d9ff50; stroke-width: 1; }
+.astra-orbit { position: absolute; border: 1px solid #126bff35; width: 190px; height: 190px; border-radius: 50%; transform: rotateX(50deg) rotate(-25deg); }
+.astra-orbit-two { width: 300px; height: 250px; transform: rotateX(55deg) rotate(30deg); border-style: dashed; opacity: .5; }
+.astra-network-core { display: grid; place-content: center; gap: 7px; width: 116px; height: 116px; border: 1px solid #00d9ff60; border-radius: 32px; background: radial-gradient(ellipse at 30% 20%, #126bff60, #0b1b35 75%); box-shadow: 0 0 50px #126bff25, inset 0 1px 20px #00d9ff15; font-size: 22px; letter-spacing: .08em; text-align: center; }
+.astra-network-core span { font-size: 5px; letter-spacing: .16em; color: #00d9ff; }
+.astra-node { position: absolute; padding: 12px 18px; background: linear-gradient(120deg, #0b1b35e0, #0b1b3580); border: 1px solid #f4f8ff20; box-shadow: 0 10px 25px #0003; border-radius: 12px; font-size: 10px; color: #f4f8ffbb; }
+.astra-node-a { top: 12%; left: 4%; }.astra-node-b { top: 12%; right: 4%; }.astra-node-c { bottom: 9%; left: 10%; }.astra-node-d { bottom: 9%; right: 4%; }
+.astra-signal { position: absolute; top: 10%; left: 50%; width: 4px; height: 4px; background: #00d9ff; border-radius: 50%; box-shadow: 0 0 10px #00d9ff; animation: astra-signal 4s ease-in-out infinite; }
+@keyframes astra-signal { 50% { transform: translateY(28px); opacity: .2; } }
+.astra-pipeline { display: grid; align-items: center; padding: 4px 12px; perspective: 800px; }
+.astra-glass-panel { padding: 18px; border: 1px solid #f4f8ff20; border-radius: 16px; background: linear-gradient(125deg, #0b1b35ef, #0b1b3570); box-shadow: 0 15px 40px #0004, 0 0 55px #126bff15; transform: rotateY(-8deg) rotateX(4deg); }
+.astra-panel-heading { display: flex; align-items: center; gap: 8px; font-size: 7px; letter-spacing: .12em; color: #f4f8ff90; margin-bottom: 17px; }
+.astra-panel-heading > span:last-child { margin-left: auto; }.astra-status-dot { width: 4px; height: 4px; border-radius: 50%; background: #00d9ff; }
+.astra-pipeline-step { display: flex; align-items: center; gap: 10px; margin-top: 8px; padding: 10px; border: 1px solid #f4f8ff10; border-radius: 7px; background: #050b1840; font-size: 10px; }
+.astra-pipeline-step b { font-weight: 400; color: #00d9ff80; font-size: 8px; }.astra-pipeline-step i { margin-left: auto; color: #00d9ff; font-style: normal; }
+.astra-pipeline-footer { margin-top: 14px; font-size: 8px; color: #f4f8ff70; }.astra-pipeline-footer span { float: right; color: #00d9ff; }
+.astra-chat { padding: 15px 6px; }.astra-chat-bubble { width: 80%; padding: 15px; border: 1px solid #f4f8ff20; border-radius: 14px 14px 14px 3px; background: #0b1b35a0; font-size: 11px; }.astra-chat-bubble span { display: block; margin-top: 6px; font-size: 9px; color: #f4f8ff65; }
+.astra-chat-response { margin: 10px 0 0 auto; border-color: #126bff40; background: #126bff16; border-radius: 14px 14px 3px 14px; }.astra-chat-response i { display: flex; gap: 4px; margin-top: 9px; }.astra-chat-response b { width: 3px; height: 3px; border-radius: 50%; background: #00d9ff; }.astra-chat-link { display: block; text-align: right; margin-top: 12px; font-size: 8px; color: #00d9ff90; }
+.astra-calendar { padding: 15px 12px; }.astra-calendar-top { display: flex; justify-content: space-between; font-size: 7px; letter-spacing: .12em; color: #f4f8ff80; }.astra-calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; margin: 18px 0; }.astra-calendar-grid i { display: grid; place-items: center; height: 34px; border: 1px solid #f4f8ff12; border-radius: 6px; background: #0b1b3550; font-style: normal; font-size: 12px; }.astra-calendar-grid .astra-calendar-active { background: #126bff20; color: #00d9ff; border-color: #126bff60; }.astra-calendar-bottom { display: flex; justify-content: space-between; font-size: 8px; color: #f4f8ff80; }.astra-calendar-bottom span { color: #00d9ff; }
+.astra-search { padding: 20px 0; }.astra-search-input { display: flex; align-items: center; gap: 9px; padding: 12px; font-size: 9px; border: 1px solid #126bff55; border-radius: 9px; background: #0b1b35; }.astra-search-input > span { color: #00d9ff; font-size: 20px; }.astra-search-input i { width: 1px; height: 10px; background: #00d9ff; }.astra-search-result { padding: 20px 13px; }.astra-search-result b { display: block; font-size: 10px; font-weight: 400; color: #f4f8ffbf; margin-bottom: 12px; }.astra-search-result > span { display: block; width: 92%; height: 3px; margin-top: 7px; border-radius: 3px; background: #f4f8ff18; }.astra-search-result > span:last-child { width: 65%; }.astra-search-tag { position: absolute; right: 12px; bottom: 6px; padding: 5px 9px; border: 1px solid #00d9ff30; border-radius: 20px; font-size: 7px; letter-spacing: .07em; color: #00d9ff; }
+.astra-funnel { display: grid; align-content: center; justify-items: center; }.astra-funnel > span { font-size: 8px; letter-spacing: .14em; color: #f4f8ff90; }.astra-funnel-lines { display: grid; gap: 10px; justify-items: center; margin: 15px 0; width: 90%; }.astra-funnel-lines i { width: 95%; height: 16px; border: 1px solid #126bff55; border-radius: 50%; background: #126bff08; }.astra-funnel-lines i:nth-child(2) { width: 70%; }.astra-funnel-lines i:nth-child(3) { width: 40%; border-color: #00d9ff70; background: #00d9ff10; }.astra-funnel-box { display: flex; gap: 12px; padding: 10px 14px; border-radius: 9px; border: 1px solid #f4f8ff15; font-size: 9px; color: #f4f8ffb0; }.astra-funnel-box span { color: #00d9ff; }
+.astra-video { display: grid; place-content: center; justify-items: center; gap: 13px; }.astra-video-screen { display: grid; place-items: center; position: relative; width: 145px; height: 98px; border: 1px solid #126bff50; border-radius: 12px; background: radial-gradient(ellipse at center, #126bff20, #050b18); }.astra-video-screen > span { font-size: 35px; color: #00d9ff99; }.astra-video-screen i { position: absolute; inset: 9px; border: 1px solid #f4f8ff10; border-radius: 6px; }.astra-video-timeline { display: flex; gap: 4px; align-items: center; height: 33px; }.astra-video-timeline i { width: 5px; border-radius: 2px; background: linear-gradient(#00d9ff80, #126bff60); }.astra-video-label { font-size: 6px; letter-spacing: .13em; color: #f4f8ff70; }
+.astra-voice { display: grid; place-content: center; gap: 28px; }.astra-waveform { display: flex; height: 85px; align-items: center; justify-content: center; gap: 4px; }.astra-waveform i { width: 4px; border-radius: 4px; background: linear-gradient(#00d9ffb0, #126bff60); animation: astra-wave 3s ease-in-out infinite; transform-origin: center; }.astra-voice-route { display: flex; gap: 18px; align-items: center; justify-content: center; font-size: 9px; }.astra-voice-route > span { padding: 8px 10px; border: 1px solid #f4f8ff18; border-radius: 7px; color: #f4f8ff90; }.astra-voice-route i { color: #00d9ff; font-style: normal; }
+@keyframes astra-wave { 50% { transform: scaleY(.6); } }
+.astra-services-footer { display: flex; justify-content: space-between; gap: 24px; padding-top: 35px; font-size: 12px; color: #f4f8ff60; }.astra-services-footer strong { font-weight: 400; color: #f4f8ffbd; }.astra-services-footer a { color: #f4f8ff; text-decoration: none; }.astra-services-footer a span { color: #00d9ff; margin-left: 18px; }
+.astra-services a:focus-visible { outline: 2px solid #00d9ff; outline-offset: 6px; }
+@media (min-width: 1600px) { .astra-logo-group { gap: 6vw; }.astra-card { padding: 32px; } }
+@media (max-width: 1023px) {
+  .astra-services-heading { gap: 25px; }.astra-services-heading > p { max-width: 280px; font-size: 12px; }
+  .astra-card-website, .astra-card-sdr, .astra-card-whatsapp, .astra-card-social, .astra-card-seo, .astra-card-landing, .astra-card-video, .astra-card-calling { grid-column: span 6; }
+  .astra-card { padding: 23px; }.astra-card-top > span:nth-child(2) { font-size: 6px; }.astra-card-website .astra-visual, .astra-card-sdr .astra-visual { height: 220px; }
+}
+@media (max-width: 600px) {
+  .astra-ecosystem { padding: 75px 0 40px; }.astra-ecosystem-heading h2 span { display: block; margin-top: 5px; }.astra-ecosystem-heading > p:last-child { font-size: 12px; }.astra-marquees { margin-top: 34px; gap: 0; }.astra-logo-group { gap: 30px; padding: 15px; }.astra-logo { width: 150px; font-size: 21px; }.astra-marquee-track { animation-duration: 35s; }.astra-marquee-1 .astra-marquee-track { animation-duration: 42s; }.astra-ecosystem-note { font-size: 9px; }
+  .astra-services { padding: 60px 0 40px; }.astra-services-heading { display: block; margin-bottom: 30px; }.astra-services-heading > p { max-width: 100%; margin-top: 24px; }.astra-services h2 { font-size: 43px; }.astra-eyebrow { font-size: 8px; }.astra-bento { gap: 14px; }.astra-bento > .astra-card { grid-column: 1 / -1; border-radius: 22px; padding: 24px; }.astra-visual { height: 185px; }.astra-card-website .astra-visual, .astra-card-sdr .astra-visual { height: 230px; }.astra-card-copy h3 { font-size: 24px; }.astra-card-copy p { font-size: 12px; }.astra-card-top > span:nth-child(2) { font-size: 7px; }.astra-services-footer { flex-direction: column; font-size: 11px; line-height: 1.7; }.astra-node { padding: 10px 12px; font-size: 9px; }.astra-orbit-two { width: 250px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .astra-marquee-track, .astra-signal, .astra-waveform i { animation: none; }
+  .astra-logo-group[aria-hidden="true"] { display: none; }
+  .astra-marquee-track, .astra-logo-group { width: 100%; min-width: 0; }
+  .astra-logo-group { flex-wrap: wrap; justify-content: center; gap: 24px; }
+  .astra-marquee { mask-image: none; }
+  .astra-card, .astra-logo img { transition: none; }.astra-card:hover { transform: none; }
+}

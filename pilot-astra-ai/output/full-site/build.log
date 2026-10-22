@@ -1,0 +1,52 @@
+
+> pilot-astra-ai@0.1.0 build
+> next build
+
+▲ Next.js 16.4.2 (Turbopack)
+✓ Running next.config.ts took 12ms
+- Cache Components enabled
+- Partial Prefetching enabled
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 398ms
+  Running TypeScript ...
+  Finished TypeScript in 685ms ...
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/27) ...
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+  Generating static pages using 9 workers (6/27) 
+  Generating static pages using 9 workers (13/27) 
+  Generating static pages using 9 workers (20/27) 
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+✓ Generating static pages using 9 workers (27/27) in 456ms
+  Finalizing page optimization ...
+
+Route (app)                                      Revalidate  Expire
+┌ ○ /                                                    1d      1w
+├ ○ /_not-found
+├ ○ /about                                               1d      1w
+├ ○ /contact                                             1d      1w
+├ ○ /disclaimer                                          1d      1w
+├ ○ /opengraph-image
+├ ○ /privacy-policy                                      1d      1w
+├ ƒ /robots.txt
+├ ○ /services                                            1d      1w
+├   /services/[slug]
+│ ├ ◐ /services/[slug]
+│ ├ ○ /services/ai-website                               1d      1w
+│ ├ ○ /services/dynamic-landing                          1d      1w
+│ └ ◐ [+6 more paths]
+├ ƒ /sitemap.xml
+├ ○ /terms                                               1d      1w
+├ ○ /work                                                1d      1w
+└   /work/[slug]
+  ├ ◐ /work/[slug]
+  ├ ○ /work/industrial-manufacturer-lead-engine          1d      1w
+  ├ ○ /work/retail-brand-whatsapp-automation             1d      1w
+  └ ○ /work/d2c-ecommerce-outreach-system                1d      1w
+
+
+○  (Static)             prerendered as static content
+◐  (Partial Prerender)  prerendered as static HTML with dynamic server-streamed content
+ƒ  (Dynamic)            server-rendered on demand
+

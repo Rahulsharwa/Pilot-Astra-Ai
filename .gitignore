@@ -1,0 +1,12 @@
+# Local operating-system files
+.DS_Store
+
+# Recoverable local development backups
+/backups/
+
+# Animation assets remain local; archives exceed GitHub’s regular file-size limit.
+/ezgif-724d47947c3a493e-png-split/
+/ezgif-724d47947c3a493e-png-split.zip
+/pilot-astra-ai/public/frames_150.zip
+
+/pilot-astra-ai/public/frames/

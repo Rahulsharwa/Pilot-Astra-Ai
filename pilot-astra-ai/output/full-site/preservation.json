@@ -1,0 +1,20 @@
+{
+  "frames": 250,
+  "changedFrames": [],
+  "unchangedFiles": {
+    "components/ScrollSequenceHero.tsx": true,
+    "components/ScrollSequenceHero.css": true,
+    "components/DreamFrameHero.css": true,
+    "components/TechnologyMarquee.tsx": true,
+    "components/GrowthServices.tsx": true,
+    "components/GrowthSections.css": true,
+    "components/ForecastModels.tsx": true,
+    "components/GrowthArchitecture.tsx": true,
+    "components/HomepageMotion.tsx": true,
+    "app/page.tsx": true,
+    "app/layout.tsx": true,
+    "app/opengraph-image.tsx": true,
+    "next.config.ts": true,
+    "allApprovedBrandAssets": true
+  }
+}

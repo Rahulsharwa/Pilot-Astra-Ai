@@ -1,0 +1,82 @@
+[
+  {
+    "width": 1440,
+    "path": "/contact",
+    "border": "1px",
+    "inputWidth": 360.125,
+    "overflow": false,
+    "textareaWidth": 742.2578125
+  },
+  {
+    "width": 1440,
+    "path": "/",
+    "border": "1px",
+    "inputWidth": 360.125,
+    "overflow": false,
+    "textareaWidth": 742.2578125
+  },
+  {
+    "width": 1024,
+    "path": "/contact",
+    "border": "1px",
+    "inputWidth": 252.9140625,
+    "overflow": false,
+    "textareaWidth": 527.828125
+  },
+  {
+    "width": 1024,
+    "path": "/",
+    "border": "1px",
+    "inputWidth": 252.9140625,
+    "overflow": false,
+    "textareaWidth": 527.828125
+  },
+  {
+    "width": 768,
+    "path": "/contact",
+    "border": "1px",
+    "inputWidth": 186.9375,
+    "overflow": false,
+    "textareaWidth": 395.875
+  },
+  {
+    "width": 768,
+    "path": "/",
+    "border": "1px",
+    "inputWidth": 186.9375,
+    "overflow": false,
+    "textareaWidth": 395.875
+  },
+  {
+    "width": 430,
+    "path": "/contact",
+    "border": "1px",
+    "inputWidth": 387,
+    "overflow": false,
+    "textareaWidth": 387
+  },
+  {
+    "width": 430,
+    "path": "/",
+    "border": "1px",
+    "inputWidth": 387,
+    "overflow": false,
+    "textareaWidth": 387
+  },
+  {
+    "width": 375,
+    "path": "/contact",
+    "border": "1px",
+    "inputWidth": 337.5,
+    "overflow": false,
+    "textareaWidth": 337.5
+  },
+  {
+    "width": 375,
+    "path": "/",
+    "border": "1px",
+    "inputWidth": 337.5,
+    "overflow": false,
+    "textareaWidth": 337.5
+  }
+]
