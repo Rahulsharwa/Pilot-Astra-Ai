@@ -81,4 +81,10 @@ export const faqs = [
   ["Do you work with manufacturers, retailers, and ecommerce brands?", "Yes. Systems are designed for industrial, retail, ecommerce and B2B businesses."],
   ["What is social media content automation?", "A repeatable workflow for producing, reviewing, scheduling and publishing content."],
   ["How long does a growth system take to launch?", "The standard implementation plan runs for 45 working days, subject to the project scope and agreed timeline."],
+// Decision FAQs sourced from UPDATED.md §4; original five topics retained.
+  ["Do I need to hire an internal AI team?", "Not necessarily. Compare a scoped fully managed engagement with a conditional on-site engineer supported by the wider delivery team. Availability and responsibilities require a proposal."],
+  ["What exactly will you manage?", "Only workflows and coverage agreed in the proposal. New systems need assessment. Approval, escalation and operational responsibilities are documented for the contracted workflows."],
+  ["Will the setup fee recur each year?", "The illustration assumes the same one-time implementation is not charged again. Managed fees, third-party expenses and additional scope still apply; the agreement governs actual fees."],
+  ["Can the system run in our environment?", "Where architecture and agreement allow. Access, security responsibilities, data, exports, ownership and handover must be defined contractually."],
+  ["Does AI guarantee lead volume, rankings or sales?", "No. Outcomes depend on business and market factors. People review customer-sensitive decisions and exceptions according to the agreed workflow."]
 ];

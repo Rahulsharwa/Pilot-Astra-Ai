@@ -1,3 +1,4 @@
+import ThemeToggle from "./ThemeToggle";
 import Image from "next/image";
 import Link from "next/link";
 import "./DreamFrameHero.css";
@@ -16,6 +17,7 @@ export default function SiteNavbar() {
       <Link prefetch={false} href="/#contact">Contacts</Link>
       <Link prefetch={false} href="/#faq">FAQ</Link>
     </nav>
+    <ThemeToggle />
     <Link prefetch={false} className="dreamframe-contact" href="/#contact">Get in touch</Link>
   </header>;
 }

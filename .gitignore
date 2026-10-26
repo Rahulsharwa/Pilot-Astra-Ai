@@ -10,3 +10,6 @@
 /pilot-astra-ai/public/frames_150.zip
 
 /pilot-astra-ai/public/frames/
+
+# Generated browser QA captures and local verification output
+/pilot-astra-ai/output/

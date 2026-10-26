@@ -23,8 +23,8 @@ export default function TechnologyMarquee() {
     <section className="astra-ecosystem" aria-labelledby="ecosystem-title">
       <div className="astra-section-inner astra-ecosystem-heading">
         <p className="astra-eyebrow"><span /> THE CONNECTED ECOSYSTEM</p>
-        <h2 id="ecosystem-title">Your tools. <span>One intelligent system.</span></h2>
-        <p>AI, communication, commerce and CRM — connected around your business.</p>
+        <h2 id="ecosystem-title">Your tools. <span>One accountable AI operating system.</span></h2>
+        <p>Connect the platforms your team already uses into practical workflows — from the first enquiry to the next sales conversation.</p>
       </div>
       <div className="astra-marquees" tabIndex={0} aria-label="Technology ecosystem. Focus or hover to pause movement.">
         {rows.map((logos, row) => (
@@ -46,7 +46,7 @@ export default function TechnologyMarquee() {
           </div>
         ))}
       </div>
-      <p className="astra-ecosystem-note">Technology ecosystem, not endorsements. Integrations are scoped to your platform, API access and business requirements.</p>
+      <p className="astra-ecosystem-note">Platform names show ecosystem compatibility, not endorsements. Actual integrations depend on API access, permissions and agreed scope.</p>
     </section>
   );
 }

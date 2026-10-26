@@ -2,14 +2,14 @@ import Link from "next/link";
 import "./GrowthSections.css";
 
 const services = [
-  { id: "01", type: "website", title: "AI Website Development", description: "Fast, mobile-friendly, SEO-ready websites built for lead generation, product discovery, service enquiries and conversion.", label: "YOUR CONNECTED FOUNDATION", href: "/services/ai-website" },
-  { id: "02", type: "sdr", title: "AI SDR Outreach", description: "Prospect research, personalized outreach and intelligent follow-ups. Give your team more time for qualified conversations.", label: "FROM FIRST TOUCH TO FOLLOW-UP", href: "/services/ai-sdr" },
-  { id: "03", type: "whatsapp", title: "AI WhatsApp Bot", description: "Turn enquiries into connected conversations with lead qualification and CRM-ready customer context.", href: "/services/whatsapp-bot" },
-  { id: "04", type: "social", title: "Social Media Automation", description: "One connected flow for content planning, creation, approval, scheduling and publishing.", href: "/services/social-automation" },
-  { id: "05", type: "seo", title: "SEO, GEO & Blog Automation", description: "Connect search optimization, AI-search discoverability and consistent content operations.", href: "/services/seo-geo" },
-  { id: "06", type: "landing", title: "Dynamic Landing Page System", description: "Create scalable product, service, category, location or offer-based landing pages without rebuilding your website every time.", href: "/services/dynamic-landing" },
-  { id: "07", type: "video", title: "AI Video Content Engine", description: "AI-assisted video production and creative workflows, from an idea to a ready-to-publish asset.", href: "/services/video-engine" },
-  { id: "08", type: "calling", title: "AI Calling System", description: "Connect voice-agent conversations, lead management and intelligent follow-ups.", href: "/services/ai-calling" },
+  { id: "01", type: "website", title: "AI Website Development", description: "Lead-ready websites that explain your offer, capture enquiries and connect to agreed CRM workflows.", label: "YOUR CONNECTED FOUNDATION", href: "/services/ai-website" },
+  { id: "02", type: "sdr", title: "AI SDR Outreach", description: "Prospect research, personalized outreach, follow-up sequences and CRM handoffs, with human review.", label: "FROM FIRST TOUCH TO FOLLOW-UP", href: "/services/ai-sdr" },
+  { id: "03", type: "whatsapp", title: "AI WhatsApp Bot", description: "Turn inbound enquiries into structured conversations, qualification and team notifications.", href: "/services/whatsapp-bot" },
+  { id: "04", type: "social", title: "Social Media Automation", description: "Plan, create, review and publish consistent content across approved channels.", href: "/services/social-automation" },
+  { id: "05", type: "seo", title: "SEO, GEO & Blog Automation", description: "Structure useful search content, clarify buyer intent and support discoverability in Google and AI search.", href: "/services/seo-geo" },
+  { id: "06", type: "landing", title: "Dynamic Landing Page System", description: "Create reusable location, product, category and offer pages without rebuilding the entire website.", href: "/services/dynamic-landing" },
+  { id: "07", type: "video", title: "AI Video Content Engine", description: "Create repeatable AI-assisted product, education and campaign video workflows.", href: "/services/video-engine" },
+  { id: "08", type: "calling", title: "AI Calling System", description: "An optional voice layer for qualification, callbacks and lead-context updates.", href: "/services/ai-calling" },
 ];
 
 function ServiceVisual({ type }: { type: string }) {
@@ -56,8 +56,8 @@ export default function GrowthServices() {
     <section className="astra-services" aria-labelledby="services-title" id="growth-systems">
       <div className="astra-section-inner">
         <div className="astra-services-heading">
-          <div><p className="astra-eyebrow"><span /> OUR SOLUTIONS</p><h2 id="services-title">One Connected AI Ecosystem.<br /><span>Built Around Your Business.</span></h2></div>
-          <p>From your website and lead generation to WhatsApp, CRM, content and customer follow-ups, Pilot Astra AI connects the systems that support business growth.</p>
+          <div><p className="astra-eyebrow"><span /> AI AUTOMATION SERVICES</p><h2 id="services-title">One Connected AI Ecosystem.<br /><span>Built Around Your Business.</span></h2></div>
+          <p>Individual tools solve tasks. Connected workflows help your team manage enquiries, content, outreach and customer context together.</p>
         </div>
         <div className="astra-bento">
           {services.map((service) => (
@@ -68,7 +68,7 @@ export default function GrowthServices() {
             </article>
           ))}
         </div>
-        <div className="astra-services-footer"><span>Individually capable. <strong>Connected by design.</strong></span><Link prefetch={false} href="/#contact">Let’s connect your growth system <span>↗</span></Link></div>
+        <div className="astra-services-footer"><span>Individually useful. <strong>Connected by design.</strong></span><Link prefetch={false} href="/#contact">Map My AI Growth System <span>↗</span></Link></div>
       </div>
     </section>
   );

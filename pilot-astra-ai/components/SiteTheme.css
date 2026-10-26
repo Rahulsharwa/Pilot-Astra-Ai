@@ -1,0 +1,121 @@
+/* Color roles apply only to themeable content and post-hero navigation. */
+@property --page-bg { syntax:"<color>"; inherits:true; initial-value:#000000; }
+@property --surface { syntax:"<color>"; inherits:true; initial-value:#050b18; }
+@property --surface-elevated { syntax:"<color>"; inherits:true; initial-value:#0b1b35; }
+@property --text-primary { syntax:"<color>"; inherits:true; initial-value:#f4f8ff; }
+@property --text-secondary { syntax:"<color>"; inherits:true; initial-value:#b3c0d3; }
+@property --border { syntax:"<color>"; inherits:true; initial-value:#62768e; }
+@property --accent { syntax:"<color>"; inherits:true; initial-value:#126bff; }
+@property --accent-hover { syntax:"<color>"; inherits:true; initial-value:#0956d7; }
+@property --accent-text { syntax:"<color>"; inherits:true; initial-value:#00d9ff; }
+@property --accent-outline { syntax:"<color>"; inherits:true; initial-value:#126bff; }
+@property --link { syntax:"<color>"; inherits:true; initial-value:#80baff; }
+@property --on-accent { syntax:"<color>"; inherits:true; initial-value:#ffffff; }
+@property --shadow { syntax:"<color>"; inherits:true; initial-value:#00000040; }
+@property --highlight { syntax:"<color>"; inherits:true; initial-value:#f4f8ff0a; }
+@property --accent-glow { syntax:"<color>"; inherits:true; initial-value:#126bff18; }
+@property --accent-wash { syntax:"<color>"; inherits:true; initial-value:#126bff14; }
+@property --cyan-wash { syntax:"<color>"; inherits:true; initial-value:#00d9ff12; }
+@property --glass-bg { syntax:"<color>"; inherits:true; initial-value:#0b1b35ed; }
+@property --surface-mark { syntax:"<color>"; inherits:true; initial-value:#62768e; }
+@property --handoff-end { syntax:"<color>"; inherits:true; initial-value:#000000; }
+.site-theme, .site-dark, .pa-footer, .site-nav-posthero {
+  --page-bg:#000000;
+  --surface:#050b18;
+  --surface-elevated:#0b1b35;
+  --text-primary:#f4f8ff;
+  --text-secondary:#b3c0d3;
+  --border:#62768e;
+  --accent:#126bff;
+  --accent-hover:#0956d7;
+  --accent-text:#00d9ff;
+  --accent-outline:#126bff;
+  --link:#80baff;
+  --on-accent:#ffffff;
+  --shadow:#00000040;
+  --highlight:#f4f8ff0a;
+  --accent-glow:#126bff18;
+  --accent-wash:#126bff14;
+  --cyan-wash:#00d9ff12;
+  --glass-bg:#0b1b35ed;
+  --surface-mark:#62768e;
+  --handoff-end:#000000;
+  --logo-light-opacity:0;
+  --logo-dark-opacity:1;
+  --line-subtle:var(--border);
+  color-scheme:dark;
+}
+html[data-site-theme="light"] :is(.site-theme,.site-dark,.pa-footer,.site-nav-posthero) {
+  --page-bg:#ffffff;
+  --surface:#f4f8ff;
+  --surface-elevated:#eaf2ff;
+  --text-primary:#050b18;
+  --text-secondary:#45546a;
+  --border:#7b8da6;
+  --accent:#126bff;
+  --accent-hover:#0956d7;
+  --accent-text:#0953bb;
+  --accent-outline:#126bff;
+  --link:#0953bb;
+  --on-accent:#ffffff;
+  --shadow:#0b1b3518;
+  --highlight:#ffffff99;
+  --accent-glow:#126bff0c;
+  --accent-wash:#126bff0c;
+  --cyan-wash:#126bff0a;
+  --glass-bg:#f4f8fff5;
+  --surface-mark:#7b8da6;
+  --handoff-end:#ffffff;
+  --logo-light-opacity:1;
+  --logo-dark-opacity:0;
+  color-scheme:light;
+}
+.site-theme, .site-dark, .pa-footer, .site-nav-posthero {
+  transition: --page-bg 600ms ease-in-out, --surface 600ms ease-in-out, --surface-elevated 600ms ease-in-out, --text-primary 600ms ease-in-out, --text-secondary 600ms ease-in-out, --border 600ms ease-in-out, --accent 600ms ease-in-out, --accent-hover 600ms ease-in-out, --accent-text 600ms ease-in-out, --accent-outline 600ms ease-in-out, --link 600ms ease-in-out, --on-accent 600ms ease-in-out, --shadow 600ms ease-in-out, --highlight 600ms ease-in-out, --accent-glow 600ms ease-in-out, --accent-wash 600ms ease-in-out, --cyan-wash 600ms ease-in-out, --glass-bg 600ms ease-in-out, --surface-mark 600ms ease-in-out, --handoff-end 600ms ease-in-out;
+}
+
+.site-theme, .site-dark { background:var(--page-bg);color:var(--text-primary); }
+.site-theme .pa-section, .pa-footer { --pa-ink:var(--text-primary);--pa-dim:var(--text-secondary); }
+/* The handoff starts AFTER the protected scroll region; it adds no scroll height. */
+.site-theme .astra-ecosystem {background:linear-gradient(to bottom,#000 0px,var(--handoff-end) 95px);}
+.site-theme :is(section[id]), .site-dark :is(section[id]) {scroll-margin-top:140px;}
+.site-dark {--hero-theme:1;--hero-ink:#f4f8ff;--hero-surface:#000;--hero-surface-rgb:0 0 0;}
+html[data-site-theme="light"] .site-dark {--hero-theme:0;--hero-ink:#050b18;--hero-surface:#fff;--hero-surface-rgb:255 255 255;}
+.site-nav-posthero {--hero-theme:1;}
+html[data-site-theme="light"] .site-nav-posthero {--hero-theme:0;}
+/* Only the shared header outside the hero uses site colors. Inside, original scroll variables win. */
+.site-dark .dreamframe-nav, .dreamframe-nav.site-nav-posthero {background:linear-gradient(var(--page-bg),color-mix(in srgb,var(--page-bg) 85%,transparent) 65%,transparent);}
+.site-dark .dreamframe-nav nav a, .dreamframe-nav.site-nav-posthero nav a, .site-dark .theme-toggle, .site-nav-posthero .theme-toggle {color:var(--text-primary);}
+.site-dark .dreamframe-logo img, .site-nav-posthero .dreamframe-logo img {transition:opacity 600ms ease-in-out;}
+.theme-toggle {position:absolute;right:calc(2.4vw + 5.4em + 44px + (7.4vw - 40px)/2);top:50%;transform:translateY(-50%);width:40px;height:40px;display:grid;place-items:center;border:1px solid currentColor;border-radius:50%;background:transparent;color:var(--hero-ink,#f4f8ff);cursor:pointer;padding:9px;}
+.theme-toggle:focus-visible {outline:3px solid #126bff;outline-offset:4px;}
+.theme-toggle svg {position:absolute;inset:9px;width:20px;height:20px;transition:opacity 600ms ease-in-out;}
+.theme-toggle .theme-moon {opacity:0;}
+html[data-site-theme="light"] .theme-toggle .theme-sun {opacity:0;}
+html[data-site-theme="light"] .theme-toggle .theme-moon {opacity:1;}
+.pa-footer-brand > a:first-child {position:relative;display:block;width:160px;height:80px;}
+.pa-footer-brand img {width:160px;height:80px;object-fit:contain;transition:opacity 600ms ease-in-out;}
+.pa-footer-brand .footer-logo-light {position:absolute;inset:0;opacity:var(--logo-light-opacity);}
+.pa-footer-brand .footer-logo-dark {opacity:var(--logo-dark-opacity);}
+/* Keep supplied white wordmarks readable without filtering or replacing the assets. */
+.astra-logo img:is([src="/logos/n8n.svg"],[src="/logos/wordpress.png"]) {background:#0b1b35;border-radius:4px;}
+.pa-decision-grid {display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+.pa-decision-card {padding:30px;border:1px solid var(--border);border-radius:20px;background:var(--surface);}
+.pa-decision-card p,.pa-decision-card li {font-size:14px;color:var(--text-secondary);line-height:1.8;}
+.pa-decision-card dd {margin:6px 0 20px;color:var(--text-secondary);font-size:14px;line-height:1.7;}
+.pa-table-wrap {overflow-x:auto;max-width:100%;}
+.pa-cost-table {width:100%;border-collapse:collapse;font-size:14px;line-height:1.7;text-align:left;}
+.pa-cost-table caption {text-align:left;margin:20px 0;color:var(--text-secondary);}
+.pa-cost-table th,.pa-cost-table td {padding:16px;border-bottom:1px solid var(--border);}
+/* A clipped gradient always has an opaque text-shaped fallback behind it. */
+.astra-services h2 span,.pa-closing h2 em {color:var(--text-primary);background-color:var(--text-primary);}
+.site-theme :is(input,select,textarea), .site-dark :is(input,select,textarea) {color:var(--text-primary);background:var(--surface);border-color:var(--border);caret-color:var(--text-primary);}
+.site-theme ::placeholder,.site-dark ::placeholder {color:var(--text-secondary);opacity:1;}
+.site-theme option,.site-dark option {background:var(--surface);color:var(--text-primary);}
+.site-theme :is(button,input,select,textarea):disabled,.site-dark :is(button,input,select,textarea):disabled {opacity:1;color:var(--text-secondary);background:var(--surface-elevated);cursor:not-allowed;}
+.pa-copy-button:hover {color:var(--link);text-decoration:underline;}
+.site-theme :is(button,a,summary):active,.site-dark :is(button,a,summary):active {text-decoration:underline;text-underline-offset:3px;}
+@media(max-width:767px){.theme-toggle{right:calc(5vw + 121px);top:16px;transform:none;}.pa-decision-grid{grid-template-columns:1fr;}}
+@media(prefers-reduced-motion:reduce){
+  .site-theme,.site-dark,.pa-footer,.site-nav-posthero,.theme-toggle svg,.site-dark .dreamframe-logo img,.site-nav-posthero .dreamframe-logo img,.pa-footer-brand img {transition:none;}
+}
